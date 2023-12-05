@@ -1,0 +1,2096 @@
+Activity,Filename,Start
+Fall,Subject1Activity1Trial11.mp4,2.5
+Fall,Subject1Activity1Trial21.mp4,0.5
+Fall,Subject1Activity1Trial31.mp4,0.5
+Fall,Subject1Activity2Trial11.mp4,0.5
+Fall,Subject1Activity2Trial21.mp4,0.5
+Fall,Subject1Activity2Trial31.mp4,0.5
+Fall,Subject1Activity3Trial11.mp4,0.5
+Fall,Subject1Activity3Trial21.mp4,0.5
+Fall,Subject1Activity3Trial31.mp4,0.5
+Fall,Subject1Activity4Trial11.mp4,0.5
+Fall,Subject1Activity4Trial21.mp4,0.5
+Fall,Subject1Activity4Trial31.mp4,0.5
+Fall,Subject1Activity5Trial11.mp4,0.5
+Fall,Subject1Activity5Trial21.mp4,0.5
+Fall,Subject1Activity5Trial31.mp4,0.5
+Fall,Subject2Activity1Trial11.mp4,0.2
+Fall,Subject2Activity1Trial21.mp4,0.2
+Fall,Subject2Activity1Trial31.mp4,0.2
+Fall,Subject2Activity2Trial11.mp4,0.2
+Fall,Subject2Activity2Trial21.mp4,0.2
+Fall,Subject2Activity2Trial31.mp4,0.2
+Fall,Subject2Activity3Trial11.mp4,0.2
+Fall,Subject2Activity3Trial21.mp4,0.2
+Fall,Subject2Activity3Trial31.mp4,0.2
+Fall,Subject2Activity4Trial11.mp4,0.2
+Fall,Subject2Activity4Trial21.mp4,0.2
+Fall,Subject2Activity4Trial31.mp4,0.2
+Fall,Subject2Activity5Trial11.mp4,1.0
+Fall,Subject2Activity5Trial21.mp4,0.7
+Fall,Subject2Activity5Trial31.mp4,0.7
+Fall,Subject3Activity1Trial11.mp4,0.5
+Fall,Subject3Activity1Trial21.mp4,0.5
+Fall,Subject3Activity1Trial31.mp4,1.0
+Fall,Subject3Activity2Trial11.mp4,1.0
+Fall,Subject3Activity2Trial21.mp4,0.7
+Fall,Subject3Activity2Trial31.mp4,0.5
+Fall,Subject3Activity3Trial11.mp4,0.5
+Fall,Subject3Activity3Trial21.mp4,0.5
+Fall,Subject3Activity3Trial31.mp4,0.5
+Fall,Subject3Activity4Trial11.mp4,0.5
+Fall,Subject3Activity4Trial21.mp4,0.7
+Fall,Subject3Activity4Trial31.mp4,0.5
+Fall,Subject3Activity5Trial11.mp4,0.5
+Fall,Subject3Activity5Trial21.mp4,0.5
+Fall,Subject3Activity5Trial31.mp4,0.5
+Fall,Subject4Activity1Trial11.mp4,0.5
+Fall,Subject4Activity1Trial21.mp4,0.5
+Fall,Subject4Activity1Trial31.mp4,0.5
+Fall,Subject4Activity2Trial11.mp4,0.5
+Fall,Subject4Activity2Trial21.mp4,0.5
+Fall,Subject4Activity2Trial31.mp4,0.5
+Fall,Subject4Activity3Trial11.mp4,0.5
+Fall,Subject4Activity3Trial21.mp4,0.5
+Fall,Subject4Activity3Trial31.mp4,0.5
+Fall,Subject4Activity4Trial11.mp4,0.5
+Fall,Subject4Activity4Trial21.mp4,0.5
+Fall,Subject4Activity4Trial31.mp4,0.5
+Fall,Subject4Activity5Trial11.mp4,0.5
+Fall,Subject4Activity5Trial21.mp4,0.5
+Fall,Subject4Activity5Trial31.mp4,0.5
+Fall,Subject5Activity1Trial11.mp4,1.0
+Fall,Subject5Activity1Trial21.mp4,1.0
+Fall,Subject5Activity1Trial31.mp4,1.0
+Fall,Subject5Activity2Trial11.mp4,1.0
+Fall,Subject5Activity2Trial21.mp4,1.0
+Fall,Subject5Activity2Trial31.mp4,1.0
+Fall,Subject5Activity3Trial11.mp4,0.5
+Fall,Subject5Activity3Trial21.mp4,0.5
+Fall,Subject5Activity3Trial31.mp4,0.5
+Fall,Subject5Activity4Trial11.mp4,0.5
+Fall,Subject5Activity4Trial21.mp4,0.5
+Fall,Subject5Activity4Trial31.mp4,0.5
+Fall,Subject5Activity5Trial11.mp4,0.5
+Fall,Subject5Activity5Trial21.mp4,0.5
+Fall,Subject5Activity5Trial31.mp4,1.5
+Fall,Subject6Activity1Trial11.mp4,0.2
+Fall,Subject6Activity1Trial21.mp4,0.2
+Fall,Subject6Activity1Trial31.mp4,0.2
+Fall,Subject6Activity2Trial11.mp4,0.2
+Fall,Subject6Activity2Trial21.mp4,0.2
+Fall,Subject6Activity2Trial31.mp4,0.2
+Fall,Subject6Activity3Trial11.mp4,0.2
+Fall,Subject6Activity3Trial21.mp4,0.2
+Fall,Subject6Activity3Trial31.mp4,0.2
+Fall,Subject6Activity4Trial11.mp4,0.2
+Fall,Subject6Activity4Trial21.mp4,0.2
+Fall,Subject6Activity4Trial31.mp4,0.2
+Fall,Subject6Activity5Trial11.mp4,0.2
+Fall,Subject6Activity5Trial21.mp4,0.2
+Fall,Subject6Activity5Trial31.mp4,0.2
+Fall,Subject7Activity1Trial11.mp4,0.5
+Fall,Subject7Activity1Trial21.mp4,0.5
+Fall,Subject7Activity1Trial31.mp4,0.5
+Fall,Subject7Activity2Trial11.mp4,0.5
+Fall,Subject7Activity2Trial21.mp4,0.5
+Fall,Subject7Activity2Trial31.mp4,0.5
+Fall,Subject7Activity3Trial11.mp4,0.5
+Fall,Subject7Activity3Trial21.mp4,0.5
+Fall,Subject7Activity3Trial31.mp4,0.5
+Fall,Subject7Activity4Trial11.mp4,0.5
+Fall,Subject7Activity4Trial21.mp4,0.5
+Fall,Subject7Activity4Trial31.mp4,0.5
+Fall,Subject7Activity5Trial11.mp4,0.5
+Fall,Subject7Activity5Trial21.mp4,0.7
+Fall,Subject7Activity5Trial31.mp4,0.5
+Fall,Subject8Activity1Trial11.mp4,0.5
+Fall,Subject8Activity1Trial21.mp4,1.0
+Fall,Subject8Activity1Trial31.mp4,0.7
+Fall,Subject8Activity2Trial11.mp4,1.2
+Fall,Subject8Activity2Trial21.mp4,2.0
+Fall,Subject8Activity2Trial31.mp4,1.2
+Fall,Subject8Activity3Trial11.mp4,1.0
+Fall,Subject8Activity3Trial21.mp4,0.7
+Fall,Subject8Activity3Trial31.mp4,0.5
+Fall,Subject8Activity4Trial11.mp4,0.5
+Fall,Subject8Activity4Trial21.mp4,0.5
+Fall,Subject8Activity4Trial31.mp4,0.7
+Fall,Subject8Activity5Trial11.mp4,0.7
+Fall,Subject8Activity5Trial21.mp4,1.0
+Fall,Subject8Activity5Trial31.mp4,1.5
+Fall,Subject9Activity1Trial11.mp4,0.5
+Fall,Subject9Activity1Trial21.mp4,0.5
+Fall,Subject9Activity1Trial31.mp4,0.5
+Fall,Subject9Activity2Trial11.mp4,0.5
+Fall,Subject9Activity2Trial21.mp4,0.5
+Fall,Subject9Activity2Trial31.mp4,0.5
+Fall,Subject9Activity3Trial11.mp4,0.5
+Fall,Subject9Activity3Trial21.mp4,0.5
+Fall,Subject9Activity3Trial31.mp4,0.5
+Fall,Subject9Activity4Trial11.mp4,0.5
+Fall,Subject9Activity4Trial21.mp4,0.5
+Fall,Subject9Activity4Trial31.mp4,0.5
+Fall,Subject9Activity5Trial11.mp4,0.5
+Fall,Subject9Activity5Trial21.mp4,0.5
+Fall,Subject9Activity5Trial31.mp4,0.5
+Fall,Subject10Activity1Trial11.mp4,0.5
+Fall,Subject10Activity1Trial21.mp4,0.5
+Fall,Subject10Activity1Trial31.mp4,0.5
+Fall,Subject10Activity2Trial11.mp4,0.5
+Fall,Subject10Activity2Trial21.mp4,0.5
+Fall,Subject10Activity2Trial31.mp4,0.5
+Fall,Subject10Activity3Trial11.mp4,0.5
+Fall,Subject10Activity3Trial21.mp4,0.5
+Fall,Subject10Activity3Trial31.mp4,0.5
+Fall,Subject10Activity4Trial11.mp4,0.5
+Fall,Subject10Activity4Trial21.mp4,0.5
+Fall,Subject10Activity4Trial31.mp4,0.5
+Fall,Subject10Activity5Trial11.mp4,0.5
+Fall,Subject10Activity5Trial21.mp4,0.5
+Fall,Subject10Activity5Trial31.mp4,0.5
+Fall,Subject11Activity1Trial11.mp4,0.5
+Fall,Subject11Activity1Trial21.mp4,0.5
+Fall,Subject11Activity1Trial31.mp4,0.5
+Fall,Subject11Activity2Trial11.mp4,0.5
+Fall,Subject11Activity2Trial21.mp4,0.5
+Fall,Subject11Activity2Trial31.mp4,0.5
+Fall,Subject11Activity3Trial11.mp4,0.5
+Fall,Subject11Activity3Trial21.mp4,0.5
+Fall,Subject11Activity3Trial31.mp4,0.5
+Fall,Subject11Activity4Trial11.mp4,0.5
+Fall,Subject11Activity4Trial21.mp4,0.5
+Fall,Subject11Activity4Trial31.mp4,0.5
+Fall,Subject11Activity5Trial11.mp4,0.5
+Fall,Subject11Activity5Trial21.mp4,0.5
+Fall,Subject11Activity5Trial31.mp4,0.5
+Fall,Subject12Activity1Trial11.mp4,0.5
+Fall,Subject12Activity1Trial21.mp4,0.5
+Fall,Subject12Activity1Trial31.mp4,0.5
+Fall,Subject12Activity2Trial11.mp4,0.5
+Fall,Subject12Activity2Trial21.mp4,0.5
+Fall,Subject12Activity2Trial31.mp4,0.5
+Fall,Subject12Activity3Trial11.mp4,0.5
+Fall,Subject12Activity3Trial21.mp4,0.5
+Fall,Subject12Activity3Trial31.mp4,0.5
+Fall,Subject12Activity4Trial11.mp4,0.5
+Fall,Subject12Activity4Trial21.mp4,0.5
+Fall,Subject12Activity4Trial31.mp4,0.5
+Fall,Subject12Activity5Trial11.mp4,0.5
+Fall,Subject12Activity5Trial21.mp4,0.5
+Fall,Subject12Activity5Trial31.mp4,0.5
+Fall,Subject13Activity1Trial11.mp4,5.7
+Fall,Subject13Activity1Trial21.mp4,3.5
+Fall,Subject13Activity1Trial31.mp4,0.5
+Fall,Subject13Activity2Trial11.mp4,1.0
+Fall,Subject13Activity2Trial21.mp4,1.0
+Fall,Subject13Activity2Trial31.mp4,0.5
+Fall,Subject13Activity3Trial11.mp4,0.5
+Fall,Subject13Activity3Trial21.mp4,0.5
+Fall,Subject13Activity3Trial31.mp4,0.5
+Fall,Subject13Activity4Trial11.mp4,0.5
+Fall,Subject13Activity4Trial21.mp4,0.5
+Fall,Subject13Activity4Trial31.mp4,0.5
+Fall,Subject13Activity5Trial11.mp4,0.5
+Fall,Subject13Activity5Trial21.mp4,0.5
+Fall,Subject13Activity5Trial31.mp4,0.5
+Fall,Subject14Activity1Trial11.mp4,1.0
+Fall,Subject14Activity1Trial21.mp4,1.0
+Fall,Subject14Activity1Trial31.mp4,0.2
+Fall,Subject14Activity2Trial11.mp4,0.5
+Fall,Subject14Activity2Trial21.mp4,0.5
+Fall,Subject14Activity2Trial31.mp4,0.5
+Fall,Subject14Activity3Trial11.mp4,0.5
+Fall,Subject14Activity3Trial21.mp4,0.7
+Fall,Subject14Activity3Trial31.mp4,0.5
+Fall,Subject14Activity4Trial11.mp4,0.5
+Fall,Subject14Activity4Trial21.mp4,0.5
+Fall,Subject14Activity4Trial31.mp4,0.5
+Fall,Subject14Activity5Trial11.mp4,0.7
+Fall,Subject14Activity5Trial21.mp4,0.7
+Fall,Subject14Activity5Trial31.mp4,0.7
+Fall,Subject15Activity1Trial11.mp4,0.2
+Fall,Subject15Activity1Trial21.mp4,0.0
+Fall,Subject15Activity1Trial31.mp4,0.0
+Fall,Subject15Activity2Trial11.mp4,0.0
+Fall,Subject15Activity2Trial21.mp4,0.0
+Fall,Subject15Activity2Trial31.mp4,0.2
+Fall,Subject15Activity3Trial11.mp4,0.2
+Fall,Subject15Activity3Trial21.mp4,0.2
+Fall,Subject15Activity3Trial31.mp4,0.2
+Fall,Subject15Activity4Trial11.mp4,0.0
+Fall,Subject15Activity4Trial21.mp4,0.5
+Fall,Subject15Activity4Trial31.mp4,0.2
+Fall,Subject15Activity5Trial11.mp4,0.7
+Fall,Subject15Activity5Trial21.mp4,0.7
+Fall,Subject15Activity5Trial31.mp4,0.5
+Fall,Subject16Activity1Trial11.mp4,0.5
+Fall,Subject16Activity1Trial21.mp4,0.2
+Fall,Subject16Activity1Trial31.mp4,0.5
+Fall,Subject16Activity2Trial11.mp4,0.2
+Fall,Subject16Activity2Trial21.mp4,0.2
+Fall,Subject16Activity2Trial31.mp4,0.2
+Fall,Subject16Activity3Trial11.mp4,0.0
+Fall,Subject16Activity3Trial21.mp4,0.2
+Fall,Subject16Activity3Trial31.mp4,0.2
+Fall,Subject16Activity4Trial11.mp4,0.2
+Fall,Subject16Activity4Trial21.mp4,0.2
+Fall,Subject16Activity4Trial31.mp4,0.2
+Fall,Subject16Activity5Trial11.mp4,0.2
+Fall,Subject16Activity5Trial21.mp4,0.2
+Fall,Subject16Activity5Trial31.mp4,0.2
+Fall,Subject17Activity1Trial11.mp4,0.2
+Fall,Subject17Activity1Trial21.mp4,0.2
+Fall,Subject17Activity1Trial31.mp4,0.2
+Fall,Subject17Activity2Trial11.mp4,0.2
+Fall,Subject17Activity2Trial21.mp4,0.2
+Fall,Subject17Activity2Trial31.mp4,0.5
+Fall,Subject17Activity3Trial11.mp4,0.5
+Fall,Subject17Activity3Trial21.mp4,0.5
+Fall,Subject17Activity3Trial31.mp4,0.5
+Fall,Subject17Activity4Trial11.mp4,0.5
+Fall,Subject17Activity4Trial21.mp4,0.5
+Fall,Subject17Activity4Trial31.mp4,0.5
+Fall,Subject17Activity5Trial11.mp4,0.5
+Fall,Subject17Activity5Trial21.mp4,0.5
+Fall,Subject17Activity5Trial31.mp4,0.5
+Fall,Subject1Activity1Trial12.mp4,2.5
+Fall,Subject1Activity1Trial22.mp4,0.5
+Fall,Subject1Activity1Trial32.mp4,0.5
+Fall,Subject1Activity2Trial12.mp4,0.5
+Fall,Subject1Activity2Trial22.mp4,0.5
+Fall,Subject1Activity2Trial32.mp4,0.5
+Fall,Subject1Activity3Trial12.mp4,0.5
+Fall,Subject1Activity3Trial22.mp4,0.5
+Fall,Subject1Activity3Trial32.mp4,0.5
+Fall,Subject1Activity4Trial12.mp4,0.5
+Fall,Subject1Activity4Trial22.mp4,0.5
+Fall,Subject1Activity4Trial32.mp4,0.5
+Fall,Subject1Activity5Trial12.mp4,0.5
+Fall,Subject1Activity5Trial22.mp4,0.5
+Fall,Subject1Activity5Trial32.mp4,0.5
+Fall,Subject2Activity1Trial12.mp4,0.2
+Fall,Subject2Activity1Trial22.mp4,0.2
+Fall,Subject2Activity1Trial32.mp4,0.2
+Fall,Subject2Activity2Trial12.mp4,0.2
+Fall,Subject2Activity2Trial22.mp4,0.2
+Fall,Subject2Activity2Trial32.mp4,0.2
+Fall,Subject2Activity3Trial12.mp4,0.2
+Fall,Subject2Activity3Trial22.mp4,0.2
+Fall,Subject2Activity3Trial32.mp4,0.2
+Fall,Subject2Activity4Trial12.mp4,0.2
+Fall,Subject2Activity4Trial22.mp4,0.2
+Fall,Subject2Activity4Trial32.mp4,0.2
+Fall,Subject2Activity5Trial12.mp4,1.0
+Fall,Subject2Activity5Trial22.mp4,0.7
+Fall,Subject2Activity5Trial32.mp4,0.7
+Fall,Subject3Activity1Trial12.mp4,0.5
+Fall,Subject3Activity1Trial22.mp4,0.5
+Fall,Subject3Activity1Trial32.mp4,1.0
+Fall,Subject3Activity2Trial12.mp4,1.0
+Fall,Subject3Activity2Trial22.mp4,0.7
+Fall,Subject3Activity2Trial32.mp4,0.5
+Fall,Subject3Activity3Trial12.mp4,0.5
+Fall,Subject3Activity3Trial22.mp4,0.5
+Fall,Subject3Activity3Trial32.mp4,0.5
+Fall,Subject3Activity4Trial12.mp4,0.5
+Fall,Subject3Activity4Trial22.mp4,0.7
+Fall,Subject3Activity4Trial32.mp4,0.5
+Fall,Subject3Activity5Trial12.mp4,0.5
+Fall,Subject3Activity5Trial22.mp4,0.5
+Fall,Subject3Activity5Trial32.mp4,0.5
+Fall,Subject4Activity1Trial12.mp4,0.5
+Fall,Subject4Activity1Trial22.mp4,0.5
+Fall,Subject4Activity1Trial32.mp4,0.5
+Fall,Subject4Activity2Trial12.mp4,0.5
+Fall,Subject4Activity2Trial22.mp4,0.5
+Fall,Subject4Activity2Trial32.mp4,0.5
+Fall,Subject4Activity3Trial12.mp4,0.5
+Fall,Subject4Activity3Trial22.mp4,0.5
+Fall,Subject4Activity3Trial32.mp4,0.5
+Fall,Subject4Activity4Trial12.mp4,0.5
+Fall,Subject4Activity4Trial22.mp4,0.5
+Fall,Subject4Activity4Trial32.mp4,0.5
+Fall,Subject4Activity5Trial12.mp4,0.5
+Fall,Subject4Activity5Trial22.mp4,0.5
+Fall,Subject4Activity5Trial32.mp4,0.5
+Fall,Subject5Activity1Trial12.mp4,1.0
+Fall,Subject5Activity1Trial22.mp4,1.0
+Fall,Subject5Activity1Trial32.mp4,1.0
+Fall,Subject5Activity2Trial12.mp4,1.0
+Fall,Subject5Activity2Trial22.mp4,1.0
+Fall,Subject5Activity2Trial32.mp4,1.0
+Fall,Subject5Activity3Trial12.mp4,0.5
+Fall,Subject5Activity3Trial22.mp4,0.5
+Fall,Subject5Activity3Trial32.mp4,0.5
+Fall,Subject5Activity4Trial12.mp4,0.5
+Fall,Subject5Activity4Trial22.mp4,0.5
+Fall,Subject5Activity4Trial32.mp4,0.5
+Fall,Subject5Activity5Trial12.mp4,0.5
+Fall,Subject5Activity5Trial22.mp4,0.5
+Fall,Subject5Activity5Trial32.mp4,1.5
+Fall,Subject6Activity1Trial12.mp4,0.2
+Fall,Subject6Activity1Trial22.mp4,0.2
+Fall,Subject6Activity1Trial32.mp4,0.2
+Fall,Subject6Activity2Trial12.mp4,0.2
+Fall,Subject6Activity2Trial22.mp4,0.2
+Fall,Subject6Activity2Trial32.mp4,0.2
+Fall,Subject6Activity3Trial12.mp4,0.2
+Fall,Subject6Activity3Trial22.mp4,0.2
+Fall,Subject6Activity3Trial32.mp4,0.2
+Fall,Subject6Activity4Trial12.mp4,0.2
+Fall,Subject6Activity4Trial22.mp4,0.2
+Fall,Subject6Activity4Trial32.mp4,0.2
+Fall,Subject6Activity5Trial12.mp4,0.2
+Fall,Subject6Activity5Trial22.mp4,0.2
+Fall,Subject6Activity5Trial32.mp4,0.2
+Fall,Subject7Activity1Trial12.mp4,0.5
+Fall,Subject7Activity1Trial22.mp4,0.5
+Fall,Subject7Activity1Trial32.mp4,0.5
+Fall,Subject7Activity2Trial12.mp4,0.5
+Fall,Subject7Activity2Trial22.mp4,0.5
+Fall,Subject7Activity2Trial32.mp4,0.5
+Fall,Subject7Activity3Trial12.mp4,0.5
+Fall,Subject7Activity3Trial22.mp4,0.5
+Fall,Subject7Activity3Trial32.mp4,0.5
+Fall,Subject7Activity4Trial12.mp4,0.5
+Fall,Subject7Activity4Trial22.mp4,0.5
+Fall,Subject7Activity4Trial32.mp4,0.5
+Fall,Subject7Activity5Trial12.mp4,0.5
+Fall,Subject7Activity5Trial22.mp4,0.7
+Fall,Subject7Activity5Trial32.mp4,0.5
+Fall,Subject8Activity1Trial12.mp4,0.5
+Fall,Subject8Activity1Trial22.mp4,1.0
+Fall,Subject8Activity1Trial32.mp4,0.7
+Fall,Subject8Activity2Trial12.mp4,1.2
+Fall,Subject8Activity2Trial22.mp4,2.0
+Fall,Subject8Activity2Trial32.mp4,1.2
+Fall,Subject8Activity3Trial12.mp4,1.0
+Fall,Subject8Activity3Trial22.mp4,0.7
+Fall,Subject8Activity3Trial32.mp4,0.5
+Fall,Subject8Activity4Trial12.mp4,0.5
+Fall,Subject8Activity4Trial22.mp4,0.5
+Fall,Subject8Activity4Trial32.mp4,0.7
+Fall,Subject8Activity5Trial12.mp4,0.7
+Fall,Subject8Activity5Trial22.mp4,1.0
+Fall,Subject8Activity5Trial32.mp4,1.5
+Fall,Subject9Activity1Trial12.mp4,0.5
+Fall,Subject9Activity1Trial22.mp4,0.5
+Fall,Subject9Activity1Trial32.mp4,0.5
+Fall,Subject9Activity2Trial12.mp4,0.5
+Fall,Subject9Activity2Trial22.mp4,0.5
+Fall,Subject9Activity2Trial32.mp4,0.5
+Fall,Subject9Activity3Trial12.mp4,0.5
+Fall,Subject9Activity3Trial22.mp4,0.5
+Fall,Subject9Activity3Trial32.mp4,0.5
+Fall,Subject9Activity4Trial12.mp4,0.5
+Fall,Subject9Activity4Trial22.mp4,0.5
+Fall,Subject9Activity4Trial32.mp4,0.5
+Fall,Subject9Activity5Trial12.mp4,0.5
+Fall,Subject9Activity5Trial22.mp4,0.5
+Fall,Subject9Activity5Trial32.mp4,0.5
+Fall,Subject10Activity1Trial12.mp4,0.5
+Fall,Subject10Activity1Trial22.mp4,0.5
+Fall,Subject10Activity1Trial32.mp4,0.5
+Fall,Subject10Activity2Trial12.mp4,0.5
+Fall,Subject10Activity2Trial22.mp4,0.5
+Fall,Subject10Activity2Trial32.mp4,0.5
+Fall,Subject10Activity3Trial12.mp4,0.5
+Fall,Subject10Activity3Trial22.mp4,0.5
+Fall,Subject10Activity3Trial32.mp4,0.5
+Fall,Subject10Activity4Trial12.mp4,0.5
+Fall,Subject10Activity4Trial22.mp4,0.5
+Fall,Subject10Activity4Trial32.mp4,0.5
+Fall,Subject10Activity5Trial12.mp4,0.5
+Fall,Subject10Activity5Trial22.mp4,0.5
+Fall,Subject10Activity5Trial32.mp4,0.5
+Fall,Subject11Activity1Trial12.mp4,0.5
+Fall,Subject11Activity1Trial22.mp4,0.5
+Fall,Subject11Activity1Trial32.mp4,0.5
+Fall,Subject11Activity2Trial12.mp4,0.5
+Fall,Subject11Activity2Trial22.mp4,0.5
+Fall,Subject11Activity2Trial32.mp4,0.5
+Fall,Subject11Activity3Trial12.mp4,0.5
+Fall,Subject11Activity3Trial22.mp4,0.5
+Fall,Subject11Activity3Trial32.mp4,0.5
+Fall,Subject11Activity4Trial12.mp4,0.5
+Fall,Subject11Activity4Trial22.mp4,0.5
+Fall,Subject11Activity4Trial32.mp4,0.5
+Fall,Subject11Activity5Trial12.mp4,0.5
+Fall,Subject11Activity5Trial22.mp4,0.5
+Fall,Subject11Activity5Trial32.mp4,0.5
+Fall,Subject12Activity1Trial12.mp4,0.5
+Fall,Subject12Activity1Trial22.mp4,0.5
+Fall,Subject12Activity1Trial32.mp4,0.5
+Fall,Subject12Activity2Trial12.mp4,0.5
+Fall,Subject12Activity2Trial22.mp4,0.5
+Fall,Subject12Activity2Trial32.mp4,0.5
+Fall,Subject12Activity3Trial12.mp4,0.5
+Fall,Subject12Activity3Trial22.mp4,0.5
+Fall,Subject12Activity3Trial32.mp4,0.5
+Fall,Subject12Activity4Trial12.mp4,0.5
+Fall,Subject12Activity4Trial22.mp4,0.5
+Fall,Subject12Activity4Trial32.mp4,0.5
+Fall,Subject12Activity5Trial12.mp4,0.5
+Fall,Subject12Activity5Trial22.mp4,0.5
+Fall,Subject12Activity5Trial32.mp4,0.5
+Fall,Subject13Activity1Trial12.mp4,5.7
+Fall,Subject13Activity1Trial22.mp4,3.5
+Fall,Subject13Activity1Trial32.mp4,0.5
+Fall,Subject13Activity2Trial12.mp4,1.0
+Fall,Subject13Activity2Trial22.mp4,1.0
+Fall,Subject13Activity2Trial32.mp4,0.5
+Fall,Subject13Activity3Trial12.mp4,0.5
+Fall,Subject13Activity3Trial22.mp4,0.5
+Fall,Subject13Activity3Trial32.mp4,0.5
+Fall,Subject13Activity4Trial12.mp4,0.5
+Fall,Subject13Activity4Trial22.mp4,0.5
+Fall,Subject13Activity4Trial32.mp4,0.5
+Fall,Subject13Activity5Trial12.mp4,0.5
+Fall,Subject13Activity5Trial22.mp4,0.5
+Fall,Subject13Activity5Trial32.mp4,0.5
+Fall,Subject14Activity1Trial12.mp4,1.0
+Fall,Subject14Activity1Trial22.mp4,1.0
+Fall,Subject14Activity1Trial32.mp4,0.2
+Fall,Subject14Activity2Trial12.mp4,0.5
+Fall,Subject14Activity2Trial22.mp4,0.5
+Fall,Subject14Activity2Trial32.mp4,0.5
+Fall,Subject14Activity3Trial12.mp4,0.5
+Fall,Subject14Activity3Trial22.mp4,0.7
+Fall,Subject14Activity3Trial32.mp4,0.5
+Fall,Subject14Activity4Trial12.mp4,0.5
+Fall,Subject14Activity4Trial22.mp4,0.5
+Fall,Subject14Activity4Trial32.mp4,0.5
+Fall,Subject14Activity5Trial12.mp4,0.7
+Fall,Subject14Activity5Trial22.mp4,0.7
+Fall,Subject14Activity5Trial32.mp4,0.7
+Fall,Subject15Activity1Trial12.mp4,0.2
+Fall,Subject15Activity1Trial22.mp4,0.0
+Fall,Subject15Activity1Trial32.mp4,0.0
+Fall,Subject15Activity2Trial12.mp4,0.0
+Fall,Subject15Activity2Trial22.mp4,0.0
+Fall,Subject15Activity2Trial32.mp4,0.2
+Fall,Subject15Activity3Trial12.mp4,0.2
+Fall,Subject15Activity3Trial22.mp4,0.2
+Fall,Subject15Activity3Trial32.mp4,0.2
+Fall,Subject15Activity4Trial12.mp4,0.0
+Fall,Subject15Activity4Trial22.mp4,0.5
+Fall,Subject15Activity4Trial32.mp4,0.2
+Fall,Subject15Activity5Trial12.mp4,0.7
+Fall,Subject15Activity5Trial22.mp4,0.7
+Fall,Subject15Activity5Trial32.mp4,0.5
+Fall,Subject16Activity1Trial12.mp4,0.5
+Fall,Subject16Activity1Trial22.mp4,0.2
+Fall,Subject16Activity1Trial32.mp4,0.5
+Fall,Subject16Activity2Trial12.mp4,0.2
+Fall,Subject16Activity2Trial22.mp4,0.2
+Fall,Subject16Activity2Trial32.mp4,0.2
+Fall,Subject16Activity3Trial12.mp4,0.0
+Fall,Subject16Activity3Trial22.mp4,0.2
+Fall,Subject16Activity3Trial32.mp4,0.2
+Fall,Subject16Activity4Trial12.mp4,0.2
+Fall,Subject16Activity4Trial22.mp4,0.2
+Fall,Subject16Activity4Trial32.mp4,0.2
+Fall,Subject16Activity5Trial12.mp4,0.2
+Fall,Subject16Activity5Trial22.mp4,0.2
+Fall,Subject16Activity5Trial32.mp4,0.2
+Fall,Subject17Activity1Trial12.mp4,0.2
+Fall,Subject17Activity1Trial22.mp4,0.2
+Fall,Subject17Activity1Trial32.mp4,0.2
+Fall,Subject17Activity2Trial12.mp4,0.2
+Fall,Subject17Activity2Trial22.mp4,0.2
+Fall,Subject17Activity2Trial32.mp4,0.5
+Fall,Subject17Activity3Trial12.mp4,0.5
+Fall,Subject17Activity3Trial22.mp4,0.5
+Fall,Subject17Activity3Trial32.mp4,0.5
+Fall,Subject17Activity4Trial12.mp4,0.5
+Fall,Subject17Activity4Trial22.mp4,0.5
+Fall,Subject17Activity4Trial32.mp4,0.5
+Fall,Subject17Activity5Trial12.mp4,0.5
+Fall,Subject17Activity5Trial22.mp4,0.5
+Fall,Subject17Activity5Trial32.mp4,0.5
+Fall,fall-01-cam0-rgb.mp4,2.6
+Fall,fall-02-cam0-rgb.mp4,1.1
+Fall,fall-03-cam0-rgb.mp4,4.5
+Fall,fall-04-cam0-rgb.mp4,0.1
+Fall,fall-05-cam0-rgb.mp4,2.3
+Fall,fall-06-cam0-rgb.mp4,0.5
+Fall,fall-07-cam0-rgb.mp4,2.5
+Fall,fall-08-cam0-rgb.mp4,0.5
+Fall,fall-09-cam0-rgb.mp4,3.5
+Fall,fall-10-cam0-rgb.mp4,0.8
+Fall,fall-11-cam0-rgb.mp4,1.3
+Fall,fall-12-cam0-rgb.mp4,0.6
+Fall,fall-13-cam0-rgb.mp4,0.3
+Fall,fall-14-cam0-rgb.mp4,0.0
+Fall,fall-15-cam0-rgb.mp4,0.0
+Fall,fall-16-cam0-rgb.mp4,0.0
+Fall,fall-17-cam0-rgb.mp4,0.6
+Fall,fall-18-cam0-rgb.mp4,0.0
+Fall,fall-19-cam0-rgb.mp4,0.8
+Fall,fall-20-cam0-rgb.mp4,0.3
+Fall,fall-21-cam0-rgb.mp4,0.0
+Fall,fall-22-cam0-rgb.mp4,0.0
+Fall,fall-23-cam0-rgb.mp4,0.1
+Fall,fall-24-cam0-rgb.mp4,0.0
+Fall,fall-25-cam0-rgb.mp4,0.3
+Fall,fall-26-cam0-rgb.mp4,0.0
+Fall,fall-27-cam0-rgb.mp4,0.5
+Fall,fall-28-cam0-rgb.mp4,0.0
+Fall,fall-29-cam0-rgb.mp4,0.8
+Fall,fall-30-cam0-rgb.mp4,0.0
+Fall,fall-01-cam1-rgb.mp4,2.6
+Fall,fall-02-cam1-rgb.mp4,1.1
+Fall,fall-03-cam1-rgb.mp4,4.5
+Fall,fall-04-cam1-rgb.mp4,0.1
+Fall,fall-05-cam1-rgb.mp4,2.3
+Fall,fall-06-cam1-rgb.mp4,0.5
+Fall,fall-07-cam1-rgb.mp4,2.5
+Fall,fall-08-cam1-rgb.mp4,0.5
+Fall,fall-09-cam1-rgb.mp4,3.5
+Fall,fall-10-cam1-rgb.mp4,0.8
+Fall,fall-11-cam1-rgb.mp4,1.3
+Fall,fall-12-cam1-rgb.mp4,0.6
+Fall,fall-13-cam1-rgb.mp4,0.3
+Fall,fall-14-cam1-rgb.mp4,0.0
+Fall,fall-15-cam1-rgb.mp4,0.0
+Fall,fall-16-cam1-rgb.mp4,0.0
+Fall,fall-17-cam1-rgb.mp4,0.6
+Fall,fall-18-cam1-rgb.mp4,0.0
+Fall,fall-19-cam1-rgb.mp4,0.8
+Fall,fall-20-cam1-rgb.mp4,0.3
+Fall,fall-21-cam1-rgb.mp4,0.0
+Fall,fall-22-cam1-rgb.mp4,0.0
+Fall,fall-23-cam1-rgb.mp4,0.1
+Fall,fall-24-cam1-rgb.mp4,0.0
+Fall,fall-25-cam1-rgb.mp4,0.3
+Fall,fall-26-cam1-rgb.mp4,0.0
+Fall,fall-27-cam1-rgb.mp4,0.5
+Fall,fall-28-cam1-rgb.mp4,0.0
+Fall,fall-29-cam1-rgb.mp4,0.8
+Fall,fall-30-cam1-rgb.mp4,0.0
+Fall,chute01_cam1.mp4,35.9
+Fall,chute01_cam2.mp4,35.9
+Fall,chute01_cam3.mp4,36.1
+Fall,chute01_cam4.mp4,35.9
+Fall,chute01_cam5.mp4,36.6
+Fall,chute01_cam6.mp4,36.0
+Fall,chute01_cam7.mp4,36.0
+Fall,chute01_cam8.mp4,35.8
+Fall,chute02_cam1.mp4,13.1
+Fall,chute02_cam2.mp4,13.6
+Fall,chute02_cam3.mp4,12.3
+Fall,chute02_cam4.mp4,12.8
+Fall,chute02_cam5.mp4,12.9
+Fall,chute02_cam6.mp4,13.4
+Fall,chute02_cam7.mp4,13.4
+Fall,chute02_cam8.mp4,12.5
+Fall,chute03_cam1.mp4,19.9
+Fall,chute03_cam2.mp4,20.0
+Fall,chute03_cam3.mp4,19.8
+Fall,chute03_cam4.mp4,20.0
+Fall,chute03_cam5.mp4,20.7
+Fall,chute03_cam6.mp4,20.2
+Fall,chute03_cam7.mp4,20.2
+Fall,chute03_cam8.mp4,19.5
+Fall,chute04_cam1.mp4,11.8
+Fall,chute04_cam2.mp4,12.0
+Fall,chute04_cam3.mp4,12.0
+Fall,chute04_cam4.mp4,9.4
+Fall,chute04_cam5.mp4,11.7
+Fall,chute04_cam6.mp4,12.1
+Fall,chute04_cam7.mp4,12.2
+Fall,chute04_cam8.mp4,11.3
+Fall,chute04_cam1.mp4,22.2
+Fall,chute04_cam2.mp4,22.5
+Fall,chute04_cam3.mp4,22.4
+Fall,chute04_cam4.mp4,19.8
+Fall,chute04_cam5.mp4,22.1
+Fall,chute04_cam6.mp4,22.6
+Fall,chute04_cam7.mp4,22.6
+Fall,chute04_cam8.mp4,21.7
+Fall,chute05_cam1.mp4,10.7
+Fall,chute05_cam2.mp4,11.0
+Fall,chute05_cam3.mp4,10.3
+Fall,chute05_cam4.mp4,10.5
+Fall,chute05_cam5.mp4,10.8
+Fall,chute05_cam6.mp4,11.0
+Fall,chute05_cam7.mp4,11.1
+Fall,chute05_cam8.mp4,10.2
+Fall,chute06_cam1.mp4,19.2
+Fall,chute06_cam2.mp4,22.6
+Fall,chute06_cam3.mp4,22.8
+Fall,chute06_cam4.mp4,22.2
+Fall,chute06_cam5.mp4,22.2
+Fall,chute06_cam6.mp4,22.7
+Fall,chute06_cam7.mp4,22.7
+Fall,chute06_cam8.mp4,22.2
+Fall,chute07_cam1.mp4,16.6
+Fall,chute07_cam2.mp4,16.1
+Fall,chute07_cam3.mp4,16.2
+Fall,chute07_cam4.mp4,15.7
+Fall,chute07_cam5.mp4,15.7
+Fall,chute07_cam6.mp4,16.2
+Fall,chute07_cam7.mp4,16.3
+Fall,chute07_cam8.mp4,16.3
+Fall,chute08_cam1.mp4,11.9
+Fall,chute08_cam2.mp4,11.5
+Fall,chute08_cam3.mp4,8.8
+Fall,chute08_cam4.mp4,11.5
+Fall,chute08_cam5.mp4,11.0
+Fall,chute08_cam6.mp4,11.5
+Fall,chute08_cam7.mp4,11.6
+Fall,chute08_cam8.mp4,10.7
+Fall,chute09_cam1.mp4,21.3
+Fall,chute09_cam2.mp4,21.0
+Fall,chute09_cam3.mp4,20.8
+Fall,chute09_cam4.mp4,21.4
+Fall,chute09_cam5.mp4,21.2
+Fall,chute09_cam6.mp4,21.1
+Fall,chute09_cam7.mp4,21.1
+Fall,chute09_cam8.mp4,20.7
+Fall,chute10_cam1.mp4,17.3
+Fall,chute10_cam2.mp4,17.4
+Fall,chute10_cam3.mp4,17.5
+Fall,chute10_cam4.mp4,18.0
+Fall,chute10_cam5.mp4,17.3
+Fall,chute10_cam6.mp4,17.4
+Fall,chute10_cam7.mp4,17.5
+Fall,chute10_cam8.mp4,16.9
+Fall,chute11_cam1.mp4,16.0
+Fall,chute11_cam2.mp4,15.4
+Fall,chute11_cam3.mp4,15.9
+Fall,chute11_cam4.mp4,15.7
+Fall,chute11_cam5.mp4,15.3
+Fall,chute11_cam6.mp4,15.5
+Fall,chute11_cam7.mp4,15.5
+Fall,chute11_cam8.mp4,15.7
+Fall,chute12_cam1.mp4,20.7
+Fall,chute12_cam2.mp4,20.2
+Fall,chute12_cam3.mp4,20.4
+Fall,chute12_cam4.mp4,20.2
+Fall,chute12_cam5.mp4,20.0
+Fall,chute12_cam6.mp4,20.1
+Fall,chute12_cam7.mp4,20.2
+Fall,chute12_cam8.mp4,20.0
+Fall,chute13_cam1.mp4,27.8
+Fall,chute13_cam2.mp4,28.3
+Fall,chute13_cam3.mp4,27.2
+Fall,chute13_cam4.mp4,27.5
+Fall,chute13_cam5.mp4,28.1
+Fall,chute13_cam6.mp4,28.1
+Fall,chute13_cam7.mp4,28.4
+Fall,chute13_cam8.mp4,27.7
+Fall,chute14_cam1.mp4,34.4
+Fall,chute14_cam2.mp4,34.0
+Fall,chute14_cam3.mp4,34.0
+Fall,chute14_cam4.mp4,32.8
+Fall,chute14_cam5.mp4,33.7
+Fall,chute14_cam6.mp4,33.7
+Fall,chute14_cam7.mp4,33.0
+Fall,chute14_cam8.mp4,33.2
+Fall,chute15_cam1.mp4,25.5
+Fall,chute15_cam2.mp4,25.6
+Fall,chute15_cam3.mp4,25.6
+Fall,chute15_cam4.mp4,25.5
+Fall,chute15_cam5.mp4,26.1
+Fall,chute15_cam6.mp4,26.3
+Fall,chute15_cam7.mp4,25.7
+Fall,chute15_cam8.mp4,25.0
+Fall,chute16_cam1.mp4,30.3
+Fall,chute16_cam2.mp4,30.5
+Fall,chute16_cam3.mp4,29.5
+Fall,chute16_cam4.mp4,29.6
+Fall,chute16_cam5.mp4,29.9
+Fall,chute16_cam6.mp4,29.8
+Fall,chute16_cam7.mp4,29.6
+Fall,chute16_cam8.mp4,29.6
+Fall,chute17_cam1.mp4,24.8
+Fall,chute17_cam2.mp4,25.0
+Fall,chute17_cam3.mp4,24.6
+Fall,chute17_cam4.mp4,24.1
+Fall,chute17_cam5.mp4,24.5
+Fall,chute17_cam6.mp4,24.1
+Fall,chute17_cam7.mp4,25.1
+Fall,chute17_cam8.mp4,24.7
+Fall,chute18_cam1.mp4,22.1
+Fall,chute18_cam2.mp4,22.3
+Fall,chute18_cam3.mp4,21.7
+Fall,chute18_cam4.mp4,18.8
+Fall,chute18_cam5.mp4,21.6
+Fall,chute18_cam6.mp4,22.4
+Fall,chute18_cam7.mp4,22.5
+Fall,chute18_cam8.mp4,21.4
+Fall,chute19_cam1.mp4,17.1
+Fall,chute19_cam2.mp4,17.3
+Fall,chute19_cam3.mp4,17.0
+Fall,chute19_cam4.mp4,17.1
+Fall,chute19_cam5.mp4,16.6
+Fall,chute19_cam6.mp4,17.4
+Fall,chute19_cam7.mp4,16.4
+Fall,chute19_cam8.mp4,17.1
+Fall,chute20_cam1.mp4,19.5
+Fall,chute20_cam2.mp4,18.9
+Fall,chute20_cam3.mp4,18.7
+Fall,chute20_cam4.mp4,19.0
+Fall,chute20_cam5.mp4,19.0
+Fall,chute20_cam6.mp4,18.8
+Fall,chute20_cam7.mp4,18.8
+Fall,chute20_cam8.mp4,18.6
+Fall,chute21_cam1.mp4,29.3
+Fall,chute21_cam2.mp4,29.6
+Fall,chute21_cam3.mp4,29.3
+Fall,chute21_cam4.mp4,28.7
+Fall,chute21_cam5.mp4,28.9
+Fall,chute21_cam6.mp4,29.7
+Fall,chute21_cam7.mp4,29.7
+Fall,chute21_cam8.mp4,28.6
+Fall,chute22_cam1.mp4,25.4
+Fall,chute22_cam2.mp4,26.9
+Fall,chute22_cam3.mp4,27.1
+Fall,chute22_cam4.mp4,26.7
+Fall,chute22_cam5.mp4,27.1
+Fall,chute22_cam6.mp4,26.9
+Fall,chute22_cam7.mp4,26.9
+Fall,chute22_cam8.mp4,26.5
+Fall,chute23_cam1.mp4,50.8
+Fall,chute23_cam2.mp4,51.5
+Fall,chute23_cam3.mp4,51.5
+Fall,chute23_cam4.mp4,51.3
+Fall,chute23_cam5.mp4,51.6
+Fall,chute23_cam6.mp4,51.8
+Fall,chute23_cam7.mp4,51.5
+Fall,chute23_cam8.mp4,49.8
+Fall,chute23_cam1.mp4,120.0
+Fall,chute23_cam2.mp4,120.7
+Fall,chute23_cam3.mp4,120.7
+Fall,chute23_cam4.mp4,120.4
+Fall,chute23_cam5.mp4,120.7
+Fall,chute23_cam6.mp4,120.9
+Fall,chute23_cam7.mp4,120.6
+Fall,chute23_cam8.mp4,118.9
+No Fall,chute01_cam1.mp4,31.3
+No Fall,chute01_cam2.mp4,31.3
+No Fall,chute01_cam3.mp4,31.5
+No Fall,chute01_cam4.mp4,31.3
+No Fall,chute01_cam5.mp4,32.0
+No Fall,chute01_cam6.mp4,31.4
+No Fall,chute01_cam7.mp4,31.4
+No Fall,chute01_cam8.mp4,31.2
+No Fall,chute02_cam1.mp4,10.0
+No Fall,chute02_cam2.mp4,10.5
+No Fall,chute02_cam3.mp4,9.1
+No Fall,chute02_cam4.mp4,9.7
+No Fall,chute02_cam5.mp4,9.7
+No Fall,chute02_cam6.mp4,10.2
+No Fall,chute02_cam7.mp4,10.2
+No Fall,chute02_cam8.mp4,9.3
+No Fall,chute03_cam1.mp4,13.3
+No Fall,chute03_cam2.mp4,13.4
+No Fall,chute03_cam3.mp4,13.2
+No Fall,chute03_cam4.mp4,13.4
+No Fall,chute03_cam5.mp4,14.1
+No Fall,chute03_cam6.mp4,13.6
+No Fall,chute03_cam7.mp4,13.6
+No Fall,chute03_cam8.mp4,12.9
+No Fall,chute04_cam1.mp4,8.0
+No Fall,chute04_cam2.mp4,8.2
+No Fall,chute04_cam3.mp4,8.2
+No Fall,chute04_cam4.mp4,5.6
+No Fall,chute04_cam5.mp4,7.8
+No Fall,chute04_cam6.mp4,8.3
+No Fall,chute04_cam7.mp4,8.3
+No Fall,chute04_cam8.mp4,7.4
+No Fall,chute05_cam1.mp4,13.9
+No Fall,chute05_cam2.mp4,14.1
+No Fall,chute05_cam3.mp4,13.5
+No Fall,chute05_cam4.mp4,13.7
+No Fall,chute05_cam5.mp4,13.9
+No Fall,chute05_cam6.mp4,14.2
+No Fall,chute05_cam7.mp4,14.2
+No Fall,chute05_cam8.mp4,13.3
+No Fall,chute06_cam1.mp4,12.6
+No Fall,chute06_cam2.mp4,16.0
+No Fall,chute06_cam3.mp4,16.2
+No Fall,chute06_cam4.mp4,15.6
+No Fall,chute06_cam5.mp4,15.6
+No Fall,chute06_cam6.mp4,16.1
+No Fall,chute06_cam7.mp4,16.1
+No Fall,chute06_cam8.mp4,15.6
+No Fall,chute07_cam1.mp4,11.7
+No Fall,chute07_cam2.mp4,11.3
+No Fall,chute07_cam3.mp4,11.3
+No Fall,chute07_cam4.mp4,10.8
+No Fall,chute07_cam5.mp4,10.8
+No Fall,chute07_cam6.mp4,11.4
+No Fall,chute07_cam7.mp4,11.4
+No Fall,chute07_cam8.mp4,11.5
+No Fall,chute08_cam1.mp4,7.4
+No Fall,chute08_cam2.mp4,6.9
+No Fall,chute08_cam3.mp4,4.3
+No Fall,chute08_cam4.mp4,7.0
+No Fall,chute08_cam5.mp4,6.4
+No Fall,chute08_cam6.mp4,7.0
+No Fall,chute08_cam7.mp4,7.0
+No Fall,chute08_cam8.mp4,6.2
+No Fall,chute09_cam1.mp4,15.9
+No Fall,chute09_cam2.mp4,15.6
+No Fall,chute09_cam3.mp4,15.3
+No Fall,chute09_cam4.mp4,15.9
+No Fall,chute09_cam5.mp4,15.7
+No Fall,chute09_cam6.mp4,15.7
+No Fall,chute09_cam7.mp4,15.7
+No Fall,chute09_cam8.mp4,15.3
+No Fall,chute09_cam1.mp4,13.2
+No Fall,chute09_cam2.mp4,12.9
+No Fall,chute09_cam3.mp4,12.7
+No Fall,chute09_cam4.mp4,13.3
+No Fall,chute09_cam5.mp4,13.1
+No Fall,chute09_cam6.mp4,13.0
+No Fall,chute09_cam7.mp4,13.0
+No Fall,chute09_cam8.mp4,12.6
+No Fall,chute10_cam1.mp4,10.4
+No Fall,chute10_cam2.mp4,10.5
+No Fall,chute10_cam3.mp4,10.6
+No Fall,chute10_cam4.mp4,11.1
+No Fall,chute10_cam5.mp4,10.4
+No Fall,chute10_cam6.mp4,10.5
+No Fall,chute10_cam7.mp4,10.6
+No Fall,chute10_cam8.mp4,10.0
+No Fall,chute11_cam1.mp4,10.7
+No Fall,chute11_cam2.mp4,10.1
+No Fall,chute11_cam3.mp4,10.6
+No Fall,chute11_cam4.mp4,10.4
+No Fall,chute11_cam5.mp4,10.0
+No Fall,chute11_cam6.mp4,10.2
+No Fall,chute11_cam7.mp4,10.2
+No Fall,chute11_cam8.mp4,10.4
+No Fall,chute12_cam1.mp4,14.7
+No Fall,chute12_cam2.mp4,14.2
+No Fall,chute12_cam3.mp4,14.4
+No Fall,chute12_cam4.mp4,14.2
+No Fall,chute12_cam5.mp4,14.0
+No Fall,chute12_cam6.mp4,14.1
+No Fall,chute12_cam7.mp4,14.2
+No Fall,chute12_cam8.mp4,14.0
+No Fall,chute12_cam1.mp4,24.7
+No Fall,chute12_cam2.mp4,24.2
+No Fall,chute12_cam3.mp4,24.4
+No Fall,chute12_cam4.mp4,24.2
+No Fall,chute12_cam5.mp4,24.0
+No Fall,chute12_cam6.mp4,24.1
+No Fall,chute12_cam7.mp4,24.2
+No Fall,chute12_cam8.mp4,24.0
+No Fall,chute13_cam1.mp4,14.2
+No Fall,chute13_cam2.mp4,14.7
+No Fall,chute13_cam3.mp4,13.6
+No Fall,chute13_cam4.mp4,13.9
+No Fall,chute13_cam5.mp4,14.5
+No Fall,chute13_cam6.mp4,14.5
+No Fall,chute13_cam7.mp4,14.8
+No Fall,chute13_cam8.mp4,14.1
+No Fall,chute13_cam1.mp4,18.8
+No Fall,chute13_cam2.mp4,19.4
+No Fall,chute13_cam3.mp4,18.3
+No Fall,chute13_cam4.mp4,18.5
+No Fall,chute13_cam5.mp4,19.2
+No Fall,chute13_cam6.mp4,19.2
+No Fall,chute13_cam7.mp4,19.5
+No Fall,chute13_cam8.mp4,18.7
+No Fall,chute13_cam1.mp4,31.8
+No Fall,chute13_cam2.mp4,32.4
+No Fall,chute13_cam3.mp4,31.3
+No Fall,chute13_cam4.mp4,31.5
+No Fall,chute13_cam5.mp4,32.2
+No Fall,chute13_cam6.mp4,32.2
+No Fall,chute13_cam7.mp4,32.5
+No Fall,chute13_cam8.mp4,31.7
+No Fall,chute14_cam1.mp4,12.9
+No Fall,chute14_cam2.mp4,12.5
+No Fall,chute14_cam3.mp4,12.6
+No Fall,chute14_cam4.mp4,11.3
+No Fall,chute14_cam5.mp4,12.3
+No Fall,chute14_cam6.mp4,12.3
+No Fall,chute14_cam7.mp4,11.5
+No Fall,chute14_cam8.mp4,11.8
+No Fall,chute14_cam1.mp4,18.3
+No Fall,chute14_cam2.mp4,17.8
+No Fall,chute14_cam3.mp4,17.9
+No Fall,chute14_cam4.mp4,16.6
+No Fall,chute14_cam5.mp4,17.6
+No Fall,chute14_cam6.mp4,17.6
+No Fall,chute14_cam7.mp4,16.9
+No Fall,chute14_cam8.mp4,17.1
+No Fall,chute14_cam1.mp4,24.3
+No Fall,chute14_cam2.mp4,23.8
+No Fall,chute14_cam3.mp4,23.9
+No Fall,chute14_cam4.mp4,22.6
+No Fall,chute14_cam5.mp4,23.6
+No Fall,chute14_cam6.mp4,23.6
+No Fall,chute14_cam7.mp4,22.9
+No Fall,chute14_cam8.mp4,23.1
+No Fall,chute14_cam1.mp4,28.9
+No Fall,chute14_cam2.mp4,28.5
+No Fall,chute14_cam3.mp4,28.6
+No Fall,chute14_cam4.mp4,27.3
+No Fall,chute14_cam5.mp4,28.3
+No Fall,chute14_cam6.mp4,28.3
+No Fall,chute14_cam7.mp4,27.5
+No Fall,chute14_cam8.mp4,27.8
+No Fall,chute15_cam1.mp4,12.1
+No Fall,chute15_cam2.mp4,12.3
+No Fall,chute15_cam3.mp4,12.3
+No Fall,chute15_cam4.mp4,12.1
+No Fall,chute15_cam5.mp4,12.8
+No Fall,chute15_cam6.mp4,13.0
+No Fall,chute15_cam7.mp4,12.4
+No Fall,chute15_cam8.mp4,11.6
+No Fall,chute15_cam1.mp4,16.1
+No Fall,chute15_cam2.mp4,16.3
+No Fall,chute15_cam3.mp4,16.3
+No Fall,chute15_cam4.mp4,16.1
+No Fall,chute15_cam5.mp4,16.8
+No Fall,chute15_cam6.mp4,17.0
+No Fall,chute15_cam7.mp4,16.4
+No Fall,chute15_cam8.mp4,15.6
+No Fall,chute15_cam1.mp4,20.5
+No Fall,chute15_cam2.mp4,20.6
+No Fall,chute15_cam3.mp4,20.6
+No Fall,chute15_cam4.mp4,20.5
+No Fall,chute15_cam5.mp4,21.1
+No Fall,chute15_cam6.mp4,21.3
+No Fall,chute15_cam7.mp4,20.7
+No Fall,chute15_cam8.mp4,20.0
+No Fall,chute16_cam1.mp4,13.4
+No Fall,chute16_cam2.mp4,13.6
+No Fall,chute16_cam3.mp4,12.6
+No Fall,chute16_cam4.mp4,12.7
+No Fall,chute16_cam5.mp4,13.0
+No Fall,chute16_cam6.mp4,12.9
+No Fall,chute16_cam7.mp4,12.7
+No Fall,chute16_cam8.mp4,12.7
+No Fall,chute16_cam1.mp4,16.1
+No Fall,chute16_cam2.mp4,16.3
+No Fall,chute16_cam3.mp4,15.3
+No Fall,chute16_cam4.mp4,15.4
+No Fall,chute16_cam5.mp4,15.7
+No Fall,chute16_cam6.mp4,15.6
+No Fall,chute16_cam7.mp4,15.4
+No Fall,chute16_cam8.mp4,15.4
+No Fall,chute16_cam1.mp4,24.1
+No Fall,chute16_cam2.mp4,24.3
+No Fall,chute16_cam3.mp4,23.3
+No Fall,chute16_cam4.mp4,23.4
+No Fall,chute16_cam5.mp4,23.7
+No Fall,chute16_cam6.mp4,23.6
+No Fall,chute16_cam7.mp4,23.4
+No Fall,chute16_cam8.mp4,23.4
+No Fall,chute17_cam1.mp4,10.7
+No Fall,chute17_cam2.mp4,10.8
+No Fall,chute17_cam3.mp4,10.5
+No Fall,chute17_cam4.mp4,10.0
+No Fall,chute17_cam5.mp4,10.3
+No Fall,chute17_cam6.mp4,10.0
+No Fall,chute17_cam7.mp4,10.9
+No Fall,chute17_cam8.mp4,10.6
+No Fall,chute18_cam1.mp4,11.6
+No Fall,chute18_cam2.mp4,11.8
+No Fall,chute18_cam3.mp4,11.2
+No Fall,chute18_cam4.mp4,8.3
+No Fall,chute18_cam5.mp4,11.1
+No Fall,chute18_cam6.mp4,11.9
+No Fall,chute18_cam7.mp4,11.9
+No Fall,chute18_cam8.mp4,10.9
+No Fall,chute18_cam1.mp4,14.9
+No Fall,chute18_cam2.mp4,15.1
+No Fall,chute18_cam3.mp4,14.5
+No Fall,chute18_cam4.mp4,11.6
+No Fall,chute18_cam5.mp4,14.4
+No Fall,chute18_cam6.mp4,15.2
+No Fall,chute18_cam7.mp4,15.3
+No Fall,chute18_cam8.mp4,14.2
+No Fall,chute18_cam1.mp4,16.6
+No Fall,chute18_cam2.mp4,16.8
+No Fall,chute18_cam3.mp4,16.2
+No Fall,chute18_cam4.mp4,13.3
+No Fall,chute18_cam5.mp4,16.1
+No Fall,chute18_cam6.mp4,16.9
+No Fall,chute18_cam7.mp4,16.9
+No Fall,chute18_cam8.mp4,15.9
+No Fall,chute19_cam1.mp4,11.3
+No Fall,chute19_cam2.mp4,11.5
+No Fall,chute19_cam3.mp4,11.2
+No Fall,chute19_cam4.mp4,11.3
+No Fall,chute19_cam5.mp4,10.8
+No Fall,chute19_cam6.mp4,11.6
+No Fall,chute19_cam7.mp4,10.6
+No Fall,chute19_cam8.mp4,11.3
+No Fall,chute19_cam1.mp4,27.3
+No Fall,chute19_cam2.mp4,27.5
+No Fall,chute19_cam3.mp4,27.2
+No Fall,chute19_cam4.mp4,27.3
+No Fall,chute19_cam5.mp4,26.8
+No Fall,chute19_cam6.mp4,27.6
+No Fall,chute19_cam7.mp4,26.6
+No Fall,chute19_cam8.mp4,27.3
+No Fall,chute20_cam1.mp4,11.5
+No Fall,chute20_cam2.mp4,10.9
+No Fall,chute20_cam3.mp4,10.7
+No Fall,chute20_cam4.mp4,11.0
+No Fall,chute20_cam5.mp4,11.0
+No Fall,chute20_cam6.mp4,10.8
+No Fall,chute20_cam7.mp4,10.8
+No Fall,chute20_cam8.mp4,10.6
+No Fall,chute20_cam1.mp4,14.1
+No Fall,chute20_cam2.mp4,13.6
+No Fall,chute20_cam3.mp4,13.4
+No Fall,chute20_cam4.mp4,13.6
+No Fall,chute20_cam5.mp4,13.6
+No Fall,chute20_cam6.mp4,13.4
+No Fall,chute20_cam7.mp4,13.5
+No Fall,chute20_cam8.mp4,13.3
+No Fall,chute20_cam1.mp4,29.1
+No Fall,chute20_cam2.mp4,28.6
+No Fall,chute20_cam3.mp4,28.4
+No Fall,chute20_cam4.mp4,28.6
+No Fall,chute20_cam5.mp4,28.6
+No Fall,chute20_cam6.mp4,28.4
+No Fall,chute20_cam7.mp4,28.5
+No Fall,chute20_cam8.mp4,28.3
+No Fall,chute21_cam1.mp4,14.0
+No Fall,chute21_cam2.mp4,14.3
+No Fall,chute21_cam3.mp4,14.0
+No Fall,chute21_cam4.mp4,13.4
+No Fall,chute21_cam5.mp4,13.6
+No Fall,chute21_cam6.mp4,14.4
+No Fall,chute21_cam7.mp4,14.4
+No Fall,chute21_cam8.mp4,13.3
+No Fall,chute21_cam1.mp4,17.3
+No Fall,chute21_cam2.mp4,17.6
+No Fall,chute21_cam3.mp4,17.4
+No Fall,chute21_cam4.mp4,16.7
+No Fall,chute21_cam5.mp4,16.9
+No Fall,chute21_cam6.mp4,17.7
+No Fall,chute21_cam7.mp4,17.7
+No Fall,chute21_cam8.mp4,16.6
+No Fall,chute21_cam1.mp4,20.6
+No Fall,chute21_cam2.mp4,21.0
+No Fall,chute21_cam3.mp4,20.7
+No Fall,chute21_cam4.mp4,20.1
+No Fall,chute21_cam5.mp4,20.2
+No Fall,chute21_cam6.mp4,21.1
+No Fall,chute21_cam7.mp4,21.0
+No Fall,chute21_cam8.mp4,20.0
+No Fall,chute22_cam1.mp4,15.0
+No Fall,chute22_cam2.mp4,16.5
+No Fall,chute22_cam3.mp4,16.7
+No Fall,chute22_cam4.mp4,16.3
+No Fall,chute22_cam5.mp4,16.7
+No Fall,chute22_cam6.mp4,16.5
+No Fall,chute22_cam7.mp4,16.5
+No Fall,chute22_cam8.mp4,16.1
+No Fall,chute22_cam1.mp4,18.3
+No Fall,chute22_cam2.mp4,19.8
+No Fall,chute22_cam3.mp4,20.0
+No Fall,chute22_cam4.mp4,19.7
+No Fall,chute22_cam5.mp4,20.1
+No Fall,chute22_cam6.mp4,19.8
+No Fall,chute22_cam7.mp4,19.9
+No Fall,chute22_cam8.mp4,19.4
+No Fall,chute22_cam1.mp4,21.6
+No Fall,chute22_cam2.mp4,23.2
+No Fall,chute22_cam3.mp4,23.3
+No Fall,chute22_cam4.mp4,23.0
+No Fall,chute22_cam5.mp4,23.4
+No Fall,chute22_cam6.mp4,23.2
+No Fall,chute22_cam7.mp4,23.2
+No Fall,chute22_cam8.mp4,22.8
+No Fall,chute23_cam1.mp4,14.3
+No Fall,chute23_cam2.mp4,15.0
+No Fall,chute23_cam3.mp4,15.0
+No Fall,chute23_cam4.mp4,14.8
+No Fall,chute23_cam5.mp4,15.1
+No Fall,chute23_cam6.mp4,15.3
+No Fall,chute23_cam7.mp4,15.0
+No Fall,chute23_cam8.mp4,13.3
+No Fall,chute23_cam1.mp4,17.7
+No Fall,chute23_cam2.mp4,18.4
+No Fall,chute23_cam3.mp4,18.4
+No Fall,chute23_cam4.mp4,18.1
+No Fall,chute23_cam5.mp4,18.4
+No Fall,chute23_cam6.mp4,18.6
+No Fall,chute23_cam7.mp4,18.3
+No Fall,chute23_cam8.mp4,16.6
+No Fall,chute23_cam1.mp4,21.0
+No Fall,chute23_cam2.mp4,21.7
+No Fall,chute23_cam3.mp4,21.7
+No Fall,chute23_cam4.mp4,21.5
+No Fall,chute23_cam5.mp4,21.8
+No Fall,chute23_cam6.mp4,22.0
+No Fall,chute23_cam7.mp4,21.6
+No Fall,chute23_cam8.mp4,20.0
+No Fall,chute23_cam1.mp4,24.3
+No Fall,chute23_cam2.mp4,25.0
+No Fall,chute23_cam3.mp4,25.0
+No Fall,chute23_cam4.mp4,24.8
+No Fall,chute23_cam5.mp4,25.1
+No Fall,chute23_cam6.mp4,25.3
+No Fall,chute23_cam7.mp4,25.0
+No Fall,chute23_cam8.mp4,23.3
+No Fall,chute23_cam1.mp4,27.7
+No Fall,chute23_cam2.mp4,28.4
+No Fall,chute23_cam3.mp4,28.4
+No Fall,chute23_cam4.mp4,28.1
+No Fall,chute23_cam5.mp4,28.4
+No Fall,chute23_cam6.mp4,28.6
+No Fall,chute23_cam7.mp4,28.3
+No Fall,chute23_cam8.mp4,26.6
+No Fall,chute23_cam1.mp4,31.0
+No Fall,chute23_cam2.mp4,31.7
+No Fall,chute23_cam3.mp4,31.7
+No Fall,chute23_cam4.mp4,31.5
+No Fall,chute23_cam5.mp4,31.8
+No Fall,chute23_cam6.mp4,32.0
+No Fall,chute23_cam7.mp4,31.6
+No Fall,chute23_cam8.mp4,30.0
+No Fall,chute23_cam1.mp4,34.3
+No Fall,chute23_cam2.mp4,35.0
+No Fall,chute23_cam3.mp4,35.0
+No Fall,chute23_cam4.mp4,34.8
+No Fall,chute23_cam5.mp4,35.1
+No Fall,chute23_cam6.mp4,35.3
+No Fall,chute23_cam7.mp4,35.0
+No Fall,chute23_cam8.mp4,33.3
+No Fall,chute23_cam1.mp4,37.7
+No Fall,chute23_cam2.mp4,38.4
+No Fall,chute23_cam3.mp4,38.4
+No Fall,chute23_cam4.mp4,38.1
+No Fall,chute23_cam5.mp4,38.4
+No Fall,chute23_cam6.mp4,38.6
+No Fall,chute23_cam7.mp4,38.3
+No Fall,chute23_cam8.mp4,36.6
+No Fall,chute23_cam1.mp4,42.7
+No Fall,chute23_cam2.mp4,43.4
+No Fall,chute23_cam3.mp4,43.4
+No Fall,chute23_cam4.mp4,43.1
+No Fall,chute23_cam5.mp4,43.4
+No Fall,chute23_cam6.mp4,43.6
+No Fall,chute23_cam7.mp4,43.3
+No Fall,chute23_cam8.mp4,41.6
+No Fall,chute23_cam1.mp4,46.0
+No Fall,chute23_cam2.mp4,46.7
+No Fall,chute23_cam3.mp4,46.7
+No Fall,chute23_cam4.mp4,46.5
+No Fall,chute23_cam5.mp4,46.8
+No Fall,chute23_cam6.mp4,47.0
+No Fall,chute23_cam7.mp4,46.6
+No Fall,chute23_cam8.mp4,45.0
+No Fall,chute23_cam1.mp4,53.7
+No Fall,chute23_cam2.mp4,54.4
+No Fall,chute23_cam3.mp4,54.4
+No Fall,chute23_cam4.mp4,54.1
+No Fall,chute23_cam5.mp4,54.4
+No Fall,chute23_cam6.mp4,54.6
+No Fall,chute23_cam7.mp4,54.3
+No Fall,chute23_cam8.mp4,52.6
+No Fall,chute23_cam1.mp4,57.7
+No Fall,chute23_cam2.mp4,58.4
+No Fall,chute23_cam3.mp4,58.4
+No Fall,chute23_cam4.mp4,58.1
+No Fall,chute23_cam5.mp4,58.4
+No Fall,chute23_cam6.mp4,58.6
+No Fall,chute23_cam7.mp4,58.3
+No Fall,chute23_cam8.mp4,56.6
+No Fall,chute23_cam1.mp4,64.3
+No Fall,chute23_cam2.mp4,65.0
+No Fall,chute23_cam3.mp4,65.0
+No Fall,chute23_cam4.mp4,64.8
+No Fall,chute23_cam5.mp4,65.1
+No Fall,chute23_cam6.mp4,65.3
+No Fall,chute23_cam7.mp4,65.0
+No Fall,chute23_cam8.mp4,63.3
+No Fall,chute23_cam1.mp4,69.3
+No Fall,chute23_cam2.mp4,70.0
+No Fall,chute23_cam3.mp4,70.0
+No Fall,chute23_cam4.mp4,69.8
+No Fall,chute23_cam5.mp4,70.1
+No Fall,chute23_cam6.mp4,70.3
+No Fall,chute23_cam7.mp4,70.0
+No Fall,chute23_cam8.mp4,68.3
+No Fall,chute23_cam1.mp4,72.7
+No Fall,chute23_cam2.mp4,73.4
+No Fall,chute23_cam3.mp4,73.4
+No Fall,chute23_cam4.mp4,73.1
+No Fall,chute23_cam5.mp4,73.4
+No Fall,chute23_cam6.mp4,73.6
+No Fall,chute23_cam7.mp4,73.3
+No Fall,chute23_cam8.mp4,71.6
+No Fall,chute23_cam1.mp4,77.7
+No Fall,chute23_cam2.mp4,78.4
+No Fall,chute23_cam3.mp4,78.4
+No Fall,chute23_cam4.mp4,78.1
+No Fall,chute23_cam5.mp4,78.4
+No Fall,chute23_cam6.mp4,78.6
+No Fall,chute23_cam7.mp4,78.3
+No Fall,chute23_cam8.mp4,76.6
+No Fall,chute23_cam1.mp4,82.7
+No Fall,chute23_cam2.mp4,83.4
+No Fall,chute23_cam3.mp4,83.4
+No Fall,chute23_cam4.mp4,83.1
+No Fall,chute23_cam5.mp4,83.4
+No Fall,chute23_cam6.mp4,83.6
+No Fall,chute23_cam7.mp4,83.3
+No Fall,chute23_cam8.mp4,81.6
+No Fall,chute23_cam1.mp4,86.0
+No Fall,chute23_cam2.mp4,86.7
+No Fall,chute23_cam3.mp4,86.7
+No Fall,chute23_cam4.mp4,86.5
+No Fall,chute23_cam5.mp4,86.8
+No Fall,chute23_cam6.mp4,87.0
+No Fall,chute23_cam7.mp4,86.6
+No Fall,chute23_cam8.mp4,85.0
+No Fall,chute23_cam1.mp4,89.3
+No Fall,chute23_cam2.mp4,90.0
+No Fall,chute23_cam3.mp4,90.0
+No Fall,chute23_cam4.mp4,89.8
+No Fall,chute23_cam5.mp4,90.1
+No Fall,chute23_cam6.mp4,90.3
+No Fall,chute23_cam7.mp4,90.0
+No Fall,chute23_cam8.mp4,88.3
+No Fall,chute23_cam1.mp4,97.7
+No Fall,chute23_cam2.mp4,98.4
+No Fall,chute23_cam3.mp4,98.4
+No Fall,chute23_cam4.mp4,98.1
+No Fall,chute23_cam5.mp4,98.4
+No Fall,chute23_cam6.mp4,98.6
+No Fall,chute23_cam7.mp4,98.3
+No Fall,chute23_cam8.mp4,96.6
+No Fall,chute23_cam1.mp4,107.7
+No Fall,chute23_cam2.mp4,108.4
+No Fall,chute23_cam3.mp4,108.4
+No Fall,chute23_cam4.mp4,108.1
+No Fall,chute23_cam5.mp4,108.4
+No Fall,chute23_cam6.mp4,108.6
+No Fall,chute23_cam7.mp4,108.3
+No Fall,chute23_cam8.mp4,106.6
+No Fall,chute23_cam1.mp4,97.7
+No Fall,chute23_cam2.mp4,98.4
+No Fall,chute23_cam3.mp4,98.4
+No Fall,chute23_cam4.mp4,98.1
+No Fall,chute23_cam5.mp4,98.4
+No Fall,chute23_cam6.mp4,98.6
+No Fall,chute23_cam7.mp4,98.3
+No Fall,chute23_cam8.mp4,96.6
+No Fall,chute23_cam1.mp4,111.0
+No Fall,chute23_cam2.mp4,111.7
+No Fall,chute23_cam3.mp4,111.7
+No Fall,chute23_cam4.mp4,111.5
+No Fall,chute23_cam5.mp4,111.8
+No Fall,chute23_cam6.mp4,112.0
+No Fall,chute23_cam7.mp4,111.6
+No Fall,chute23_cam8.mp4,110.0
+No Fall,chute23_cam1.mp4,126.0
+No Fall,chute23_cam2.mp4,126.7
+No Fall,chute23_cam3.mp4,126.7
+No Fall,chute23_cam4.mp4,126.5
+No Fall,chute23_cam5.mp4,126.8
+No Fall,chute23_cam6.mp4,127.0
+No Fall,chute23_cam7.mp4,126.6
+No Fall,chute23_cam8.mp4,125.0
+No Fall,chute23_cam1.mp4,131.0
+No Fall,chute23_cam2.mp4,131.7
+No Fall,chute23_cam3.mp4,131.7
+No Fall,chute23_cam4.mp4,131.5
+No Fall,chute23_cam5.mp4,131.8
+No Fall,chute23_cam6.mp4,132.0
+No Fall,chute23_cam7.mp4,131.6
+No Fall,chute23_cam8.mp4,130.0
+No Fall,chute23_cam1.mp4,136.0
+No Fall,chute23_cam2.mp4,136.7
+No Fall,chute23_cam3.mp4,136.7
+No Fall,chute23_cam4.mp4,136.5
+No Fall,chute23_cam5.mp4,136.8
+No Fall,chute23_cam6.mp4,137.0
+No Fall,chute23_cam7.mp4,136.6
+No Fall,chute23_cam8.mp4,135.0
+No Fall,chute23_cam1.mp4,141.0
+No Fall,chute23_cam2.mp4,141.7
+No Fall,chute23_cam3.mp4,141.7
+No Fall,chute23_cam4.mp4,141.5
+No Fall,chute23_cam5.mp4,141.8
+No Fall,chute23_cam6.mp4,142.0
+No Fall,chute23_cam7.mp4,141.6
+No Fall,chute23_cam8.mp4,140.0
+No Fall,chute23_cam1.mp4,149.3
+No Fall,chute23_cam2.mp4,150.0
+No Fall,chute23_cam3.mp4,150.0
+No Fall,chute23_cam4.mp4,149.8
+No Fall,chute23_cam5.mp4,150.1
+No Fall,chute23_cam6.mp4,150.3
+No Fall,chute23_cam7.mp4,150.0
+No Fall,chute23_cam8.mp4,148.3
+No Fall,chute23_cam1.mp4,152.7
+No Fall,chute23_cam2.mp4,153.4
+No Fall,chute23_cam3.mp4,153.4
+No Fall,chute23_cam4.mp4,153.1
+No Fall,chute23_cam5.mp4,153.4
+No Fall,chute23_cam6.mp4,153.6
+No Fall,chute23_cam7.mp4,153.3
+No Fall,chute23_cam8.mp4,151.6
+No Fall,chute23_cam1.mp4,161.0
+No Fall,chute23_cam2.mp4,161.7
+No Fall,chute23_cam3.mp4,161.7
+No Fall,chute23_cam4.mp4,161.5
+No Fall,chute23_cam5.mp4,161.8
+No Fall,chute23_cam6.mp4,162.0
+No Fall,chute23_cam7.mp4,161.6
+No Fall,chute23_cam8.mp4,160.0
+No Fall,chute24_cam1.mp4,15.1
+No Fall,chute24_cam2.mp4,16.2
+No Fall,chute24_cam3.mp4,15.2
+No Fall,chute24_cam4.mp4,15.0
+No Fall,chute24_cam5.mp4,16.2
+No Fall,chute24_cam6.mp4,15.3
+No Fall,chute24_cam7.mp4,16.1
+No Fall,chute24_cam8.mp4,15.0
+No Fall,chute24_cam1.mp4,18.4
+No Fall,chute24_cam2.mp4,19.5
+No Fall,chute24_cam3.mp4,18.5
+No Fall,chute24_cam4.mp4,18.3
+No Fall,chute24_cam5.mp4,19.5
+No Fall,chute24_cam6.mp4,18.6
+No Fall,chute24_cam7.mp4,19.4
+No Fall,chute24_cam8.mp4,18.3
+No Fall,chute24_cam1.mp4,21.7
+No Fall,chute24_cam2.mp4,22.8
+No Fall,chute24_cam3.mp4,21.9
+No Fall,chute24_cam4.mp4,21.6
+No Fall,chute24_cam5.mp4,22.9
+No Fall,chute24_cam6.mp4,22.0
+No Fall,chute24_cam7.mp4,22.7
+No Fall,chute24_cam8.mp4,21.7
+No Fall,chute24_cam1.mp4,25.1
+No Fall,chute24_cam2.mp4,26.2
+No Fall,chute24_cam3.mp4,25.2
+No Fall,chute24_cam4.mp4,25.0
+No Fall,chute24_cam5.mp4,26.2
+No Fall,chute24_cam6.mp4,25.3
+No Fall,chute24_cam7.mp4,26.1
+No Fall,chute24_cam8.mp4,25.0
+No Fall,chute24_cam1.mp4,28.4
+No Fall,chute24_cam2.mp4,29.5
+No Fall,chute24_cam3.mp4,28.5
+No Fall,chute24_cam4.mp4,28.3
+No Fall,chute24_cam5.mp4,29.5
+No Fall,chute24_cam6.mp4,28.6
+No Fall,chute24_cam7.mp4,29.4
+No Fall,chute24_cam8.mp4,28.3
+No Fall,chute24_cam1.mp4,31.7
+No Fall,chute24_cam2.mp4,32.8
+No Fall,chute24_cam3.mp4,31.9
+No Fall,chute24_cam4.mp4,31.6
+No Fall,chute24_cam5.mp4,32.9
+No Fall,chute24_cam6.mp4,32.0
+No Fall,chute24_cam7.mp4,32.7
+No Fall,chute24_cam8.mp4,31.7
+No Fall,chute24_cam1.mp4,35.1
+No Fall,chute24_cam2.mp4,36.2
+No Fall,chute24_cam3.mp4,35.2
+No Fall,chute24_cam4.mp4,35.0
+No Fall,chute24_cam5.mp4,36.2
+No Fall,chute24_cam6.mp4,35.3
+No Fall,chute24_cam7.mp4,36.1
+No Fall,chute24_cam8.mp4,35.0
+No Fall,chute24_cam1.mp4,38.4
+No Fall,chute24_cam2.mp4,39.5
+No Fall,chute24_cam3.mp4,38.5
+No Fall,chute24_cam4.mp4,38.3
+No Fall,chute24_cam5.mp4,39.5
+No Fall,chute24_cam6.mp4,38.6
+No Fall,chute24_cam7.mp4,39.4
+No Fall,chute24_cam8.mp4,38.3
+No Fall,chute24_cam1.mp4,41.7
+No Fall,chute24_cam2.mp4,42.8
+No Fall,chute24_cam3.mp4,41.9
+No Fall,chute24_cam4.mp4,41.6
+No Fall,chute24_cam5.mp4,42.9
+No Fall,chute24_cam6.mp4,42.0
+No Fall,chute24_cam7.mp4,42.7
+No Fall,chute24_cam8.mp4,41.7
+No Fall,chute24_cam1.mp4,45.1
+No Fall,chute24_cam2.mp4,46.2
+No Fall,chute24_cam3.mp4,45.2
+No Fall,chute24_cam4.mp4,45.0
+No Fall,chute24_cam5.mp4,46.2
+No Fall,chute24_cam6.mp4,45.3
+No Fall,chute24_cam7.mp4,46.1
+No Fall,chute24_cam8.mp4,45.0
+No Fall,chute24_cam1.mp4,48.4
+No Fall,chute24_cam2.mp4,49.5
+No Fall,chute24_cam3.mp4,48.5
+No Fall,chute24_cam4.mp4,48.3
+No Fall,chute24_cam5.mp4,49.5
+No Fall,chute24_cam6.mp4,48.6
+No Fall,chute24_cam7.mp4,49.4
+No Fall,chute24_cam8.mp4,48.3
+No Fall,chute24_cam1.mp4,51.7
+No Fall,chute24_cam2.mp4,52.8
+No Fall,chute24_cam3.mp4,51.9
+No Fall,chute24_cam4.mp4,51.6
+No Fall,chute24_cam5.mp4,52.9
+No Fall,chute24_cam6.mp4,52.0
+No Fall,chute24_cam7.mp4,52.7
+No Fall,chute24_cam8.mp4,51.7
+No Fall,chute24_cam1.mp4,55.1
+No Fall,chute24_cam2.mp4,56.2
+No Fall,chute24_cam3.mp4,55.2
+No Fall,chute24_cam4.mp4,55.0
+No Fall,chute24_cam5.mp4,56.2
+No Fall,chute24_cam6.mp4,55.3
+No Fall,chute24_cam7.mp4,56.1
+No Fall,chute24_cam8.mp4,55.0
+No Fall,chute24_cam1.mp4,58.4
+No Fall,chute24_cam2.mp4,59.5
+No Fall,chute24_cam3.mp4,58.5
+No Fall,chute24_cam4.mp4,58.3
+No Fall,chute24_cam5.mp4,59.5
+No Fall,chute24_cam6.mp4,58.6
+No Fall,chute24_cam7.mp4,59.4
+No Fall,chute24_cam8.mp4,58.3
+No Fall,chute24_cam1.mp4,61.7
+No Fall,chute24_cam2.mp4,62.8
+No Fall,chute24_cam3.mp4,61.9
+No Fall,chute24_cam4.mp4,61.6
+No Fall,chute24_cam5.mp4,62.9
+No Fall,chute24_cam6.mp4,62.0
+No Fall,chute24_cam7.mp4,62.7
+No Fall,chute24_cam8.mp4,61.7
+No Fall,chute24_cam1.mp4,65.1
+No Fall,chute24_cam2.mp4,66.2
+No Fall,chute24_cam3.mp4,65.2
+No Fall,chute24_cam4.mp4,65.0
+No Fall,chute24_cam5.mp4,66.2
+No Fall,chute24_cam6.mp4,65.3
+No Fall,chute24_cam7.mp4,66.1
+No Fall,chute24_cam8.mp4,65.0
+No Fall,chute24_cam1.mp4,68.4
+No Fall,chute24_cam2.mp4,69.5
+No Fall,chute24_cam3.mp4,68.5
+No Fall,chute24_cam4.mp4,68.3
+No Fall,chute24_cam5.mp4,69.5
+No Fall,chute24_cam6.mp4,68.6
+No Fall,chute24_cam7.mp4,69.4
+No Fall,chute24_cam8.mp4,68.3
+No Fall,chute24_cam1.mp4,71.7
+No Fall,chute24_cam2.mp4,72.8
+No Fall,chute24_cam3.mp4,71.9
+No Fall,chute24_cam4.mp4,71.6
+No Fall,chute24_cam5.mp4,72.9
+No Fall,chute24_cam6.mp4,72.0
+No Fall,chute24_cam7.mp4,72.7
+No Fall,chute24_cam8.mp4,71.7
+No Fall,chute24_cam1.mp4,75.1
+No Fall,chute24_cam2.mp4,76.2
+No Fall,chute24_cam3.mp4,75.2
+No Fall,chute24_cam4.mp4,75.0
+No Fall,chute24_cam5.mp4,76.2
+No Fall,chute24_cam6.mp4,75.3
+No Fall,chute24_cam7.mp4,76.1
+No Fall,chute24_cam8.mp4,75.0
+No Fall,chute24_cam1.mp4,78.4
+No Fall,chute24_cam2.mp4,79.5
+No Fall,chute24_cam3.mp4,78.5
+No Fall,chute24_cam4.mp4,78.3
+No Fall,chute24_cam5.mp4,79.5
+No Fall,chute24_cam6.mp4,78.6
+No Fall,chute24_cam7.mp4,79.4
+No Fall,chute24_cam8.mp4,78.3
+No Fall,chute24_cam1.mp4,81.7
+No Fall,chute24_cam2.mp4,82.8
+No Fall,chute24_cam3.mp4,81.9
+No Fall,chute24_cam4.mp4,81.6
+No Fall,chute24_cam5.mp4,82.9
+No Fall,chute24_cam6.mp4,82.0
+No Fall,chute24_cam7.mp4,82.7
+No Fall,chute24_cam8.mp4,81.7
+No Fall,chute24_cam1.mp4,85.1
+No Fall,chute24_cam2.mp4,86.2
+No Fall,chute24_cam3.mp4,85.2
+No Fall,chute24_cam4.mp4,85.0
+No Fall,chute24_cam5.mp4,86.2
+No Fall,chute24_cam6.mp4,85.3
+No Fall,chute24_cam7.mp4,86.1
+No Fall,chute24_cam8.mp4,85.0
+No Fall,chute24_cam1.mp4,88.4
+No Fall,chute24_cam2.mp4,89.5
+No Fall,chute24_cam3.mp4,88.5
+No Fall,chute24_cam4.mp4,88.3
+No Fall,chute24_cam5.mp4,89.5
+No Fall,chute24_cam6.mp4,88.6
+No Fall,chute24_cam7.mp4,89.4
+No Fall,chute24_cam8.mp4,88.3
+No Fall,chute24_cam1.mp4,91.7
+No Fall,chute24_cam2.mp4,92.8
+No Fall,chute24_cam3.mp4,91.9
+No Fall,chute24_cam4.mp4,91.6
+No Fall,chute24_cam5.mp4,92.9
+No Fall,chute24_cam6.mp4,92.0
+No Fall,chute24_cam7.mp4,92.7
+No Fall,chute24_cam8.mp4,91.7
+No Fall,chute24_cam1.mp4,95.1
+No Fall,chute24_cam2.mp4,96.2
+No Fall,chute24_cam3.mp4,95.2
+No Fall,chute24_cam4.mp4,95.0
+No Fall,chute24_cam5.mp4,96.2
+No Fall,chute24_cam6.mp4,95.3
+No Fall,chute24_cam7.mp4,96.1
+No Fall,chute24_cam8.mp4,95.0
+No Fall,chute24_cam1.mp4,98.4
+No Fall,chute24_cam2.mp4,99.5
+No Fall,chute24_cam3.mp4,98.5
+No Fall,chute24_cam4.mp4,98.3
+No Fall,chute24_cam5.mp4,99.5
+No Fall,chute24_cam6.mp4,98.6
+No Fall,chute24_cam7.mp4,99.4
+No Fall,chute24_cam8.mp4,98.3
+No Fall,chute24_cam1.mp4,101.7
+No Fall,chute24_cam2.mp4,102.8
+No Fall,chute24_cam3.mp4,101.9
+No Fall,chute24_cam4.mp4,101.6
+No Fall,chute24_cam5.mp4,102.9
+No Fall,chute24_cam6.mp4,102.0
+No Fall,chute24_cam7.mp4,102.7
+No Fall,chute24_cam8.mp4,101.7
+No Fall,chute24_cam1.mp4,105.1
+No Fall,chute24_cam2.mp4,106.2
+No Fall,chute24_cam3.mp4,105.2
+No Fall,chute24_cam4.mp4,105.0
+No Fall,chute24_cam5.mp4,106.2
+No Fall,chute24_cam6.mp4,105.3
+No Fall,chute24_cam7.mp4,106.1
+No Fall,chute24_cam8.mp4,105.0
+No Fall,chute24_cam1.mp4,108.4
+No Fall,chute24_cam2.mp4,109.5
+No Fall,chute24_cam3.mp4,108.5
+No Fall,chute24_cam4.mp4,108.3
+No Fall,chute24_cam5.mp4,109.5
+No Fall,chute24_cam6.mp4,108.6
+No Fall,chute24_cam7.mp4,109.4
+No Fall,chute24_cam8.mp4,108.3
+No Fall,chute24_cam1.mp4,111.7
+No Fall,chute24_cam2.mp4,112.8
+No Fall,chute24_cam3.mp4,111.9
+No Fall,chute24_cam4.mp4,111.6
+No Fall,chute24_cam5.mp4,112.9
+No Fall,chute24_cam6.mp4,112.0
+No Fall,chute24_cam7.mp4,112.7
+No Fall,chute24_cam8.mp4,111.7
+No Fall,chute24_cam1.mp4,115.1
+No Fall,chute24_cam2.mp4,116.2
+No Fall,chute24_cam3.mp4,115.2
+No Fall,chute24_cam4.mp4,115.0
+No Fall,chute24_cam5.mp4,116.2
+No Fall,chute24_cam6.mp4,115.3
+No Fall,chute24_cam7.mp4,116.1
+No Fall,chute24_cam8.mp4,115.0
+No Fall,chute24_cam1.mp4,118.4
+No Fall,chute24_cam2.mp4,119.5
+No Fall,chute24_cam3.mp4,118.5
+No Fall,chute24_cam4.mp4,118.3
+No Fall,chute24_cam5.mp4,119.5
+No Fall,chute24_cam6.mp4,118.6
+No Fall,chute24_cam7.mp4,119.4
+No Fall,chute24_cam8.mp4,118.3
+Fall,Coffee_room_01_video (1).mp4,1.2
+Fall,Coffee_room_01_video (2).mp4,7.0
+Fall,Coffee_room_01_video (3).mp4,8.1
+Fall,Coffee_room_01_video (4).mp4,4.1
+Fall,Coffee_room_01_video (5).mp4,4.3
+Fall,Coffee_room_01_video (6).mp4,4.6
+Fall,Coffee_room_01_video (7).mp4,3.0
+Fall,Coffee_room_01_video (8).mp4,5.4
+Fall,Coffee_room_01_video (9).mp4,2.9
+Fall,Coffee_room_01_video (10).mp4,7.6
+Fall,Coffee_room_01_video (11).mp4,14.2
+Fall,Coffee_room_01_video (12).mp4,1.2
+Fall,Coffee_room_01_video (13).mp4,2.9
+Fall,Coffee_room_01_video (14).mp4,1.2
+Fall,Coffee_room_01_video (15).mp4,1.2
+Fall,Coffee_room_01_video (16).mp4,1.2
+Fall,Coffee_room_01_video (17).mp4,0.2
+Fall,Coffee_room_01_video (18).mp4,5.3
+Fall,Coffee_room_01_video (19).mp4,2.7
+Fall,Coffee_room_01_video (20).mp4,12.4
+Fall,Coffee_room_01_video (21).mp4,2.4
+Fall,Coffee_room_01_video (22).mp4,4.2
+Fall,Coffee_room_01_video (23).mp4,7.5
+Fall,Coffee_room_01_video (24).mp4,7.5
+Fall,Coffee_room_01_video (25).mp4,4.6
+Fall,Coffee_room_01_video (26).mp4,7.0
+Fall,Coffee_room_01_video (27).mp4,5.7
+Fall,Coffee_room_01_video (28).mp4,1.5
+Fall,Coffee_room_01_video (29).mp4,10.6
+Fall,Coffee_room_01_video (30).mp4,2.4
+Fall,Coffee_room_01_video (31).mp4,5.5
+Fall,Coffee_room_01_video (32).mp4,7.4
+Fall,Coffee_room_01_video (33).mp4,2.6
+Fall,Coffee_room_01_video (34).mp4,12.4
+Fall,Coffee_room_01_video (35).mp4,2.1
+Fall,Coffee_room_01_video (36).mp4,42.7
+Fall,Coffee_room_01_video (37).mp4,1.4
+Fall,Coffee_room_01_video (38).mp4,8.6
+Fall,Coffee_room_01_video (39).mp4,1.2
+Fall,Coffee_room_01_video (40).mp4,9.5
+Fall,Coffee_room_01_video (41).mp4,9.8
+Fall,Coffee_room_01_video (42).mp4,3.6
+Fall,Coffee_room_01_video (43).mp4,24.0
+Fall,Coffee_room_01_video (44).mp4,1.3
+Fall,Coffee_room_01_video (45).mp4,3.2
+Fall,Coffee_room_01_video (46).mp4,5.8
+Fall,Coffee_room_01_video (47).mp4,24.2
+Fall,Coffee_room_01_video (48).mp4,25.3
+Fall,Coffee_room_02_video (49).mp4,16.2
+Fall,Coffee_room_02_video (50).mp4,70.2
+Fall,Coffee_room_02_video (51).mp4,2.2
+Fall,Coffee_room_02_video (52).mp4,2.6
+Fall,Coffee_room_02_video (53).mp4,9.6
+Fall,Coffee_room_02_video (54).mp4,5.4
+Fall,Coffee_room_02_video (55).mp4,7.8
+Fall,Coffee_room_02_video (56).mp4,11.2
+Fall,Coffee_room_02_video (57).mp4,17.0
+Fall,Coffee_room_02_video (58).mp4,6.2
+Fall,Coffee_room_02_video (59).mp4,4.5
+Fall,Coffee_room_02_video (60).mp4,4.3
+Fall,Coffee_room_02_video (62).mp4,6.2
+Fall,Coffee_room_02_video (64).mp4,4.2
+Fall,Home_01_video (1).mp4,4.9
+Fall,Home_01_video (2).mp4,4.0
+Fall,Home_01_video (3).mp4,4.0
+Fall,Home_01_video (4).mp4,5.1
+Fall,Home_01_video (5).mp4,3.5
+Fall,Home_01_video (6).mp4,3.8
+Fall,Home_01_video (7).mp4,4.7
+Fall,Home_01_video (8).mp4,4.2
+Fall,Home_01_video (9).mp4,5.1
+Fall,Home_01_video (10).mp4,4.2
+Fall,Home_01_video (11).mp4,4.6
+Fall,Home_01_video (12).mp4,5.6
+Fall,Home_01_video (13).mp4,5.4
+Fall,Home_01_video (14).mp4,6.6
+Fall,Home_01_video (15).mp4,6.0
+Fall,Home_01_video (16).mp4,6.2
+Fall,Home_01_video (17).mp4,5.3
+Fall,Home_01_video (18).mp4,4.6
+Fall,Home_01_video (19).mp4,4.3
+Fall,Home_01_video (20).mp4,5.0
+Fall,Home_01_video (21).mp4,5.1
+Fall,Home_01_video (22).mp4,5.2
+Fall,Home_01_video (23).mp4,5.8
+Fall,Home_01_video (24).mp4,4.4
+Fall,Home_01_video (25).mp4,6.1
+Fall,Home_01_video (26).mp4,4.4
+Fall,Home_01_video (27).mp4,5.9
+Fall,Home_01_video (28).mp4,5.9
+Fall,Home_01_video (29).mp4,5.5
+Fall,Home_01_video (30).mp4,4.1
+Fall,Home_02_video (31).mp4,7.2
+Fall,Home_02_video (32).mp4,2.6
+Fall,Home_02_video (33).mp4,4.2
+Fall,Home_02_video (34).mp4,5.4
+Fall,Home_02_video (35).mp4,4.6
+Fall,Home_02_video (36).mp4,4.1
+Fall,Home_02_video (37).mp4,4.3
+Fall,Lecture_room_video (1).mp4,6.2
+Fall,Lecture_room_video (2).mp4,14.2
+Fall,Lecture_room_video (3).mp4,18.2
+Fall,Lecture_room_video (4).mp4,10.2
+Fall,Lecture_room_video (5).mp4,10.2
+Fall,Lecture_room_video (6).mp4,6.2
+Fall,Lecture_room_video (7).mp4,8.8
+Fall,Lecture_room_video (8).mp4,23.0
+Fall,Lecture_room_video (9).mp4,30.2
+Fall,Lecture_room_video (10).mp4,13.2
+Fall,Lecture_room_video (11).mp4,8.8
+Fall,Lecture_room_video (12).mp4,22.2
+Fall,Lecture_room_video (13).mp4,11.2
+Fall,Lecture_room_video (14).mp4,12.2
+Fall,Office_video (1).mp4,11.2
+Fall,Office_video (2).mp4,5.8
+Fall,Office_video (3).mp4,13.2
+Fall,Office_video (4).mp4,7.0
+Fall,Office_video (5).mp4,5.0
+Fall,Office_video (6).mp4,12.0
+Fall,Office_video (7).mp4,4.2
+Fall,Office_video (8).mp4,11.2
+Fall,Office_video (9).mp4,2.0
+Fall,Office_video (10).mp4,6.0
+Fall,Office_video (11).mp4,3.0
+Fall,Office_video (12).mp4,7.0
+Fall,Office_video (13).mp4,26.2
+Fall,Office_video (14).mp4,2.6
+Fall,Office_video (15).mp4,8.2
+Fall,Office_video (16).mp4,8.6
+Fall,Office_video (17).mp4,3.6
+No Fall,Coffee_room_01_video (2).mp4,1.0
+No Fall,Coffee_room_01_video (3).mp4,1.0
+No Fall,Coffee_room_01_video (4).mp4,1.0
+No Fall,Coffee_room_01_video (5).mp4,0.6
+No Fall,Coffee_room_01_video (6).mp4,1.0
+No Fall,Coffee_room_01_video (7).mp4,0.0
+No Fall,Coffee_room_01_video (8).mp4,1.0
+No Fall,Coffee_room_01_video (9).mp4,5.4
+No Fall,Coffee_room_01_video (10).mp4,2.8
+No Fall,Coffee_room_01_video (11).mp4,4.0
+No Fall,Coffee_room_01_video (11).mp4,8.0
+No Fall,Coffee_room_01_video (12).mp4,4.0
+No Fall,Coffee_room_01_video (13).mp4,6.0
+No Fall,Coffee_room_01_video (14).mp4,4.0
+No Fall,Coffee_room_01_video (16).mp4,4.0
+No Fall,Coffee_room_01_video (17).mp4,3.0
+No Fall,Coffee_room_01_video (18).mp4,0.8
+No Fall,Coffee_room_01_video (19).mp4,6.0
+No Fall,Coffee_room_01_video (20).mp4,1.2
+No Fall,Coffee_room_01_video (20).mp4,5.4
+No Fall,Coffee_room_01_video (23).mp4,0.0
+No Fall,Coffee_room_01_video (23).mp4,4.0
+No Fall,Coffee_room_01_video (24).mp4,0.0
+No Fall,Coffee_room_01_video (24).mp4,4.0
+No Fall,Coffee_room_01_video (25).mp4,0.0
+No Fall,Coffee_room_01_video (26).mp4,0.0
+No Fall,Coffee_room_01_video (26).mp4,4.0
+No Fall,Coffee_room_01_video (27).mp4,0.4
+No Fall,Coffee_room_01_video (29).mp4,3.6
+No Fall,Coffee_room_01_video (29).mp4,6.4
+No Fall,Coffee_room_01_video (31).mp4,0.0
+No Fall,Coffee_room_01_video (31).mp4,2.4
+No Fall,Coffee_room_01_video (32).mp4,0.0
+No Fall,Coffee_room_01_video (32).mp4,2.8
+No Fall,Coffee_room_01_video (33).mp4,0.0
+No Fall,Coffee_room_01_video (33).mp4,6.3
+No Fall,Coffee_room_01_video (34).mp4,1.0
+No Fall,Coffee_room_01_video (34).mp4,3.2
+No Fall,Coffee_room_01_video (34).mp4,5.8
+No Fall,Coffee_room_01_video (34).mp4,9.8
+No Fall,Coffee_room_01_video (35).mp4,0.0
+No Fall,Coffee_room_01_video (36).mp4,0.0
+No Fall,Coffee_room_01_video (36).mp4,2.8
+No Fall,Coffee_room_01_video (36).mp4,5.2
+No Fall,Coffee_room_01_video (36).mp4,10.0
+No Fall,Coffee_room_01_video (36).mp4,14.0
+No Fall,Coffee_room_01_video (36).mp4,18.0
+No Fall,Coffee_room_01_video (36).mp4,26.0
+No Fall,Coffee_room_01_video (38).mp4,0.0
+No Fall,Coffee_room_01_video (38).mp4,5.0
+No Fall,Coffee_room_01_video (40).mp4,0.4
+No Fall,Coffee_room_01_video (41).mp4,0.8
+No Fall,Coffee_room_01_video (41).mp4,6.0
+No Fall,Coffee_room_01_video (42).mp4,0.0
+No Fall,Coffee_room_01_video (43).mp4,0.0
+No Fall,Coffee_room_01_video (43).mp4,4.0
+No Fall,Coffee_room_01_video (43).mp4,16.0
+No Fall,Coffee_room_01_video (46).mp4,1.0
+No Fall,Coffee_room_01_video (47).mp4,0.0
+No Fall,Coffee_room_01_video (47).mp4,5.2
+No Fall,Coffee_room_01_video (47).mp4,12.4
+No Fall,Coffee_room_01_video (47).mp4,19.6
+No Fall,Coffee_room_01_video (48).mp4,8.0
+No Fall,Coffee_room_01_video (48).mp4,14.0
+No Fall,Coffee_room_01_video (48).mp4,20.0
+No Fall,Coffee_room_02_video (49).mp4,2.0
+No Fall,Coffee_room_02_video (49).mp4,8.0
+No Fall,Coffee_room_02_video (50).mp4,10.0
+No Fall,Coffee_room_02_video (50).mp4,24.0
+No Fall,Coffee_room_02_video (50).mp4,32.0
+No Fall,Coffee_room_02_video (50).mp4,52.0
+No Fall,Coffee_room_02_video (50).mp4,60.0
+No Fall,Coffee_room_02_video (55).mp4,2.0
+No Fall,Coffee_room_02_video (56).mp4,2.6
+No Fall,Coffee_room_02_video (56).mp4,8.0
+No Fall,Coffee_room_02_video (57).mp4,1.0
+No Fall,Coffee_room_02_video (57).mp4,8.0
+No Fall,Coffee_room_02_video (57).mp4,11.6
+No Fall,Coffee_room_02_video (61).mp4,10.0
+No Fall,Coffee_room_02_video (61).mp4,12.0
+No Fall,Coffee_room_02_video (61).mp4,14.0
+No Fall,Coffee_room_02_video (61).mp4,20.0
+No Fall,Coffee_room_02_video (61).mp4,28.0
+No Fall,Coffee_room_02_video (61).mp4,32.0
+No Fall,Coffee_room_02_video (61).mp4,38.0
+No Fall,Coffee_room_02_video (62).mp4,0.8
+No Fall,Coffee_room_02_video (65).mp4,15.6
+No Fall,Coffee_room_02_video (65).mp4,24.0
+No Fall,Coffee_room_02_video (66).mp4,8.4
+No Fall,Coffee_room_02_video (67).mp4,6.8
+No Fall,Coffee_room_02_video (68).mp4,4.0
+No Fall,Coffee_room_02_video (68).mp4,8.0
+No Fall,Coffee_room_02_video (68).mp4,12.0
+No Fall,Coffee_room_02_video (68).mp4,16.0
+No Fall,Coffee_room_02_video (68).mp4,20.0
+No Fall,Coffee_room_02_video (68).mp4,24.0
+No Fall,Coffee_room_02_video (68).mp4,28.0
+No Fall,Coffee_room_02_video (68).mp4,32.0
+No Fall,Coffee_room_02_video (68).mp4,36.0
+No Fall,Coffee_room_02_video (68).mp4,40.0
+No Fall,Coffee_room_02_video (68).mp4,44.0
+No Fall,Coffee_room_02_video (68).mp4,48.0
+No Fall,Coffee_room_02_video (68).mp4,52.0
+No Fall,Coffee_room_02_video (68).mp4,56.0
+No Fall,Coffee_room_02_video (68).mp4,60.0
+No Fall,Coffee_room_02_video (69).mp4,4.0
+No Fall,Coffee_room_02_video (69).mp4,8.0
+No Fall,Coffee_room_02_video (69).mp4,12.0
+No Fall,Coffee_room_02_video (69).mp4,16.0
+No Fall,Coffee_room_02_video (69).mp4,20.0
+No Fall,Coffee_room_02_video (69).mp4,24.0
+No Fall,Coffee_room_02_video (69).mp4,28.0
+No Fall,Coffee_room_02_video (69).mp4,32.0
+No Fall,Coffee_room_02_video (69).mp4,36.0
+No Fall,Coffee_room_02_video (69).mp4,40.0
+No Fall,Coffee_room_02_video (69).mp4,44.0
+No Fall,Coffee_room_02_video (70).mp4,4.0
+No Fall,Coffee_room_02_video (70).mp4,8.0
+No Fall,Coffee_room_02_video (70).mp4,12.0
+No Fall,Coffee_room_02_video (70).mp4,16.0
+No Fall,Coffee_room_02_video (70).mp4,20.0
+No Fall,Coffee_room_02_video (70).mp4,24.0
+No Fall,Coffee_room_02_video (70).mp4,28.0
+No Fall,Home_01_video (1).mp4,0.0
+No Fall,Home_01_video (1).mp4,7.6
+No Fall,Home_01_video (2).mp4,0.0
+No Fall,Home_01_video (5).mp4,0.0
+No Fall,Home_01_video (6).mp4,0.8
+No Fall,Home_01_video (7).mp4,1.2
+No Fall,Home_01_video (8).mp4,1.2
+No Fall,Home_01_video (10).mp4,1.6
+No Fall,Home_01_video (11).mp4,7.2
+No Fall,Home_01_video (12).mp4,2.4
+No Fall,Home_01_video (13).mp4,2.4
+No Fall,Home_01_video (16).mp4,2.8
+No Fall,Home_01_video (17).mp4,0.8
+No Fall,Home_01_video (18).mp4,0.0
+No Fall,Home_01_video (28).mp4,2.4
+No Fall,Home_02_video (31).mp4,4.0
+No Fall,Home_02_video (33).mp4,1.2
+No Fall,Home_02_video (34).mp4,1.2
+No Fall,Home_02_video (35).mp4,1.6
+No Fall,Home_02_video (38).mp4,3.6
+No Fall,Home_02_video (39).mp4,3.2
+No Fall,Home_02_video (39).mp4,5.2
+No Fall,Home_02_video (40).mp4,5.6
+No Fall,Home_02_video (40).mp4,7.0
+No Fall,Home_02_video (41).mp4,5.2
+No Fall,Home_02_video (42).mp4,3.6
+No Fall,Home_02_video (43).mp4,4.0
+No Fall,Home_02_video (44).mp4,4.0
+No Fall,Home_02_video (44).mp4,8.0
+No Fall,Home_02_video (45).mp4,4.0
+No Fall,Home_02_video (46).mp4,4.0
+No Fall,Home_02_video (47).mp4,4.0
+No Fall,Home_02_video (47).mp4,8.0
+No Fall,Home_02_video (48).mp4,4.0
+No Fall,Home_02_video (49).mp4,4.0
+No Fall,Home_02_video (49).mp4,8.0
+No Fall,Home_02_video (50).mp4,4.0
+No Fall,Home_02_video (50).mp4,8.0
+No Fall,Home_02_video (51).mp4,4.0
+No Fall,Home_02_video (51).mp4,8.0
+No Fall,Home_02_video (52).mp4,4.0
+No Fall,Home_02_video (53).mp4,4.0
+No Fall,Home_02_video (54).mp4,4.0
+No Fall,Home_02_video (55).mp4,4.0
+No Fall,Home_02_video (56).mp4,3.6
+No Fall,Home_02_video (56).mp4,7.2
+No Fall,Home_02_video (56).mp4,10.8
+No Fall,Home_02_video (57).mp4,3.2
+No Fall,Home_02_video (57).mp4,6.8
+No Fall,Home_02_video (58).mp4,4.0
+No Fall,Home_02_video (58).mp4,8.0
+No Fall,Home_02_video (59).mp4,2.8
+No Fall,Home_02_video (59).mp4,5.6
+No Fall,Home_02_video (60).mp4,4.0
+No Fall,Home_02_video (60).mp4,8.0
+No Fall,Lecture_room_video (15).mp4,4.0
+No Fall,Lecture_room_video (15).mp4,8.0
+No Fall,Lecture_room_video (15).mp4,12.0
+No Fall,Lecture_room_video (15).mp4,16.0
+No Fall,Lecture_room_video (15).mp4,20.0
+No Fall,Lecture_room_video (16).mp4,4.0
+No Fall,Lecture_room_video (16).mp4,8.0
+No Fall,Lecture_room_video (16).mp4,12.0
+No Fall,Lecture_room_video (16).mp4,16.0
+No Fall,Lecture_room_video (16).mp4,20.0
+No Fall,Lecture_room_video (16).mp4,24.0
+No Fall,Lecture_room_video (16).mp4,28.0
+No Fall,Lecture_room_video (16).mp4,32.0
+No Fall,Lecture_room_video (17).mp4,4.0
+No Fall,Lecture_room_video (17).mp4,8.0
+No Fall,Lecture_room_video (17).mp4,12.0
+No Fall,Lecture_room_video (17).mp4,16.0
+No Fall,Lecture_room_video (18).mp4,4.0
+No Fall,Lecture_room_video (18).mp4,8.0
+No Fall,Lecture_room_video (18).mp4,12.0
+No Fall,Lecture_room_video (18).mp4,16.0
+No Fall,Lecture_room_video (18).mp4,20.0
+No Fall,Lecture_room_video (18).mp4,24.0
+No Fall,Lecture_room_video (18).mp4,28.0
+No Fall,Lecture_room_video (18).mp4,32.0
+No Fall,Lecture_room_video (18).mp4,36.0
+No Fall,Lecture_room_video (19).mp4,4.0
+No Fall,Lecture_room_video (19).mp4,8.0
+No Fall,Lecture_room_video (19).mp4,12.0
+No Fall,Lecture_room_video (19).mp4,16.0
+No Fall,Lecture_room_video (19).mp4,20.0
+No Fall,Lecture_room_video (19).mp4,24.0
+No Fall,Lecture_room_video (19).mp4,28.0
+No Fall,Lecture_room_video (20).mp4,4.0
+No Fall,Lecture_room_video (20).mp4,8.0
+No Fall,Lecture_room_video (21).mp4,4.0
+No Fall,Lecture_room_video (21).mp4,8.0
+No Fall,Lecture_room_video (21).mp4,12.0
+No Fall,Lecture_room_video (21).mp4,16.0
+No Fall,Lecture_room_video (21).mp4,20.0
+No Fall,Lecture_room_video (21).mp4,24.0
+No Fall,Lecture_room_video (21).mp4,28.0
+No Fall,Lecture_room_video (21).mp4,32.0
+No Fall,Lecture_room_video (21).mp4,36.0
+No Fall,Lecture_room_video (21).mp4,40.0
+No Fall,Lecture_room_video (22).mp4,4.0
+No Fall,Lecture_room_video (22).mp4,8.0
+No Fall,Lecture_room_video (22).mp4,12.0
+No Fall,Lecture_room_video (22).mp4,16.0
+No Fall,Lecture_room_video (22).mp4,20.0
+No Fall,Lecture_room_video (22).mp4,24.0
+No Fall,Lecture_room_video (22).mp4,28.0
+No Fall,Lecture_room_video (22).mp4,32.0
+No Fall,Lecture_room_video (22).mp4,36.0
+No Fall,Lecture_room_video (23).mp4,4.0
+No Fall,Lecture_room_video (23).mp4,8.0
+No Fall,Lecture_room_video (23).mp4,12.0
+No Fall,Lecture_room_video (23).mp4,16.0
+No Fall,Lecture_room_video (23).mp4,20.0
+No Fall,Lecture_room_video (23).mp4,24.0
+No Fall,Lecture_room_video (24).mp4,4.0
+No Fall,Lecture_room_video (24).mp4,8.0
+No Fall,Lecture_room_video (24).mp4,12.0
+No Fall,Lecture_room_video (24).mp4,16.0
+No Fall,Lecture_room_video (24).mp4,20.0
+No Fall,Lecture_room_video (24).mp4,24.0
+No Fall,Lecture_room_video (24).mp4,28.0
+No Fall,Lecture_room_video (24).mp4,32.0
+No Fall,Lecture_room_video (24).mp4,36.0
+No Fall,Lecture_room_video (24).mp4,40.0
+No Fall,Lecture_room_video (24).mp4,44.0
+No Fall,Lecture_room_video (24).mp4,48.0
+No Fall,Lecture_room_video (24).mp4,52.0
+No Fall,Lecture_room_video (24).mp4,54.0
+No Fall,Lecture_room_video (25).mp4,4.0
+No Fall,Lecture_room_video (25).mp4,8.0
+No Fall,Lecture_room_video (25).mp4,12.0
+No Fall,Lecture_room_video (26).mp4,4.0
+No Fall,Lecture_room_video (26).mp4,8.0
+No Fall,Lecture_room_video (26).mp4,12.0
+No Fall,Lecture_room_video (26).mp4,16.0
+No Fall,Lecture_room_video (26).mp4,20.0
+No Fall,Lecture_room_video (26).mp4,24.0
+No Fall,Lecture_room_video (26).mp4,28.0
+No Fall,Lecture_room_video (26).mp4,32.0
+No Fall,Lecture_room_video (26).mp4,36.0
+No Fall,Lecture_room_video (26).mp4,40.0
+No Fall,Lecture_room_video (26).mp4,44.0
+No Fall,Lecture_room_video (26).mp4,48.0
+No Fall,Lecture_room_video (26).mp4,52.0
+No Fall,Lecture_room_video (27).mp4,3.6
+No Fall,Lecture_room_video (27).mp4,7.2
+No Fall,Office_video (18).mp4,4.0
+No Fall,Office_video (18).mp4,8.0
+No Fall,Office_video (18).mp4,12.0
+No Fall,Office_video (18).mp4,16.0
+No Fall,Office_video (18).mp4,20.0
+No Fall,Office_video (18).mp4,24.0
+No Fall,Office_video (18).mp4,28.0
+No Fall,Office_video (19).mp4,4.0
+No Fall,Office_video (19).mp4,8.0
+No Fall,Office_video (20).mp4,4.0
+No Fall,Office_video (20).mp4,8.0
+No Fall,Office_video (20).mp4,12.0
+No Fall,Office_video (20).mp4,16.0
+No Fall,Office_video (21).mp4,4.0
+No Fall,Office_video (21).mp4,8.0
+No Fall,Office_video (21).mp4,12.0
+No Fall,Office_video (22).mp4,2.8
+No Fall,Office_video (22).mp4,5.6
+No Fall,Office_video (23).mp4,4.0
+No Fall,Office_video (23).mp4,8.0
+No Fall,Office_video (23).mp4,12.0
+No Fall,Office_video (23).mp4,16.0
+No Fall,Office_video (23).mp4,20.0
+No Fall,Office_video (23).mp4,24.0
+No Fall,Office_video (23).mp4,28.0
+No Fall,Office_video (23).mp4,32.0
+No Fall,Office_video (23).mp4,36.0
+No Fall,Office_video (23).mp4,40.0
+No Fall,Office_video (23).mp4,43.2
+No Fall,Office_video (24).mp4,4.0
+No Fall,Office_video (24).mp4,8.0
+No Fall,Office_video (24).mp4,12.0
+No Fall,Office_video (24).mp4,16.0
+No Fall,Office_video (24).mp4,20.0
+No Fall,Office_video (24).mp4,24.0
+No Fall,Office_video (24).mp4,28.0
+No Fall,Office_video (25).mp4,4.0
+No Fall,Office_video (25).mp4,8.0
+No Fall,Office_video (25).mp4,12.0
+No Fall,Office_video (25).mp4,16.0
+No Fall,Office_video (25).mp4,20.0
+No Fall,Office_video (25).mp4,24.0
+No Fall,Office_video (25).mp4,28.0
+No Fall,Office_video (25).mp4,32.0
+No Fall,Office_video (25).mp4,36.0
+No Fall,Office_video (26).mp4,4.0
+No Fall,Office_video (26).mp4,8.0
+No Fall,Office_video (26).mp4,12.0
+No Fall,Office_video (26).mp4,16.0
+No Fall,Office_video (27).mp4,4.0
+No Fall,Office_video (27).mp4,8.0
+No Fall,Office_video (27).mp4,12.0
+No Fall,Office_video (27).mp4,16.0
+No Fall,Office_video (27).mp4,20.0
+No Fall,Office_video (27).mp4,24.0
+No Fall,Office_video (27).mp4,28.0
+No Fall,Office_video (28).mp4,4.0
+No Fall,Office_video (28).mp4,8.0
+No Fall,Office_video (28).mp4,12.0
+No Fall,Office_video (28).mp4,16.0
+No Fall,Office_video (29).mp4,4.0
+No Fall,Office_video (29).mp4,8.0
+No Fall,Office_video (29).mp4,12.0
+No Fall,Office_video (29).mp4,16.0
+No Fall,Office_video (29).mp4,20.0
+No Fall,Office_video (29).mp4,24.0
+No Fall,Office_video (29).mp4,28.0
+No Fall,Office_video (29).mp4,32.0
+No Fall,Office_video (29).mp4,36.0
+No Fall,Office_video (29).mp4,40.0
+No Fall,Office_video (29).mp4,44.0
+No Fall,Office_video (30).mp4,4.0
+No Fall,Office_video (30).mp4,8.0
+No Fall,Office_video (30).mp4,12.0
+No Fall,Office_video (30).mp4,16.0
+No Fall,Office_video (30).mp4,20.0
+No Fall,Office_video (30).mp4,24.0
+No Fall,Office_video (30).mp4,28.0
+No Fall,Office_video (30).mp4,32.0
+No Fall,Office_video (30).mp4,36.0
+No Fall,Office_video (30).mp4,40.0
+No Fall,Office_video (30).mp4,44.0
+No Fall,Office_video (31).mp4,4.0
+No Fall,Office_video (32).mp4,4.0
+No Fall,Office_video (32).mp4,8.0
+No Fall,Office_video (32).mp4,12.0
+No Fall,Office_video (32).mp4,16.0
+No Fall,Office_video (33).mp4,4.0
+No Fall,Office_video (33).mp4,8.0
+No Fall,Office_video (33).mp4,12.0
+No Fall,Office_video (33).mp4,16.0
+No Fall,Office_video (33).mp4,20.0
+No Fall,Office_video (33).mp4,22.8
